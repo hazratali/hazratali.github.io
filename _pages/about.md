@@ -14,19 +14,25 @@ This page is incomplete. Visit instead [alihazrat.weebly.com](http://alihazrat.w
 # About me
 I am a Researcher in Deep Learning and Medical Imaging. 
 
+# News
+- August 2022. I am giving a talk on _Generating Data for Medical AI - Beyond the hype_ at the HBKU Graduate Seminar. The talk is hosted by Prof. Mowafah Househ. 
+- June 2022 Our paper on UNet for medical image segmentation on edge devices is now published in IEEE Transactions on Circuits and Systems II. 
+- June 2022 Our paper on R2U++ model is published in Neural Computing and Applications (Springer).
+- May 2022 Our paper on super-resolution of medical images is accepted in Scientific Reports (Nature).
+
 # Work Experience
 
-Senior Researcher/Postdoc Researcher (January 2020 onwards), Center for Biomedical Engineering R & D, Umea University Hospital, Umea University, Sweden. 
+**Senior Researcher/Postdoc Researcher** (January 2020 onwards), Center for Biomedical Engineering R & D, Umea University Hospital, Umea University, Sweden. 
 - Worked on deep learning for ultrasound images, disease adaptation in ultrasound images using GANs.
 - Funded by grant from Kempe Foundation Sweden. 
 
-Assistant Professor (September 2015 - present), Department of Electrical and Computer Engineering, COMSATS University Islamabad, Abbottabad Campus, Abbottabad, Pakistan (formerly COMSATS Institute of Information Technology, Abbottabad, Pakistan)
+**Assistant Professor** (September 2015 - present), Department of Electrical and Computer Engineering, COMSATS University Islamabad, Abbottabad Campus, Abbottabad, Pakistan (formerly COMSATS Institute of Information Technology, Abbottabad, Pakistan)
 - Course Head - Digital Signal Processing (starting Fall 2016).
 - Course Head - Electrical Measurements and Instrumentation (Fall 2015 and Spring 2016)
 - Webpage committee convener (starting Fall 2018)
-- Founding team member, Students' Startup Business Center at CIIT Abbottabad
+- Founding team member, Students' Startup Business Center at COMSATS Universit Abbottabad
 - Delivered training workshop on machine learning, and laTeX document compilation. 
-- Supervised and co-supervised 10+ graduate research thesis in deep learning, machine learning, and medical imaging. 
+- Supervised and co-supervised 12+ graduate research thesis in deep learning, machine learning, and medical imaging. 
 
 
 
