@@ -84,8 +84,8 @@ author:
   avatar           : "profile_logo.png"
   bio              : "Assistant Professor"
   location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "HBKU Qatar"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=%28hazrat+ali%5BAuthor%5D%29+AND+%28hamad+bin+khalifa+university%5BAffiliation%5D%29&sort="
   googlescholar    : "https://scholar.google.com/citations?user=XEJyFFgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
