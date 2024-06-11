@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Paper Title Number 4 Dummy changes"
 collection: publications
 permalink: /publication/2023-01-01-paper-title-number-4
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
