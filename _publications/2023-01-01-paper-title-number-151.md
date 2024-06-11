@@ -1,7 +1,7 @@
 ---
 title: "Single Stage Adaptive Multi-Attention Network for Image Restoration"
 collection: publications
-permalink: /publication/2023-parler
+permalink: /publication/2024-ieee-tip
 date: 2024-04-21
 venue: 'IEEE Transactions on Image Processing'
 paperurl: "/files/pdf/papers/paper151.pdf"
