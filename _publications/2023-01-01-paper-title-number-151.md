@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-parler
 date: 2024-04-21
 venue: 'IEEE Transactions on Image Processing'
-paperurl: "/files/pdf/research/They're Still Here.pdf"
+paperurl: "/files/pdf/papers/paper151.pdf"
 link: 'https://ieeexplore.ieee.org/document/10495777'
 code: 'https://doi.org/10.1109/TIP.2024.3384838'
 citation: "Anas Zafar, Danyal Aftab, Rizwan Qureshi, Xinqi Fan, Pingjun Chen, Jia Wu, Hazrat Ali, Shah Nawaz, Sheheryar Khan and Mubarak Shah, Single Stage Adaptive Multi-Attention Network for Image Restoration, IEEE Transactions on Image Processing, vol. 33, April 2024. pp. 2924-2935
