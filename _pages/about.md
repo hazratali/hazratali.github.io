@@ -16,31 +16,35 @@ This page is incomplete. Visit instead [alihazrat.weebly.com](http://alihazrat.w
 **Lecturer in Artificial Intelligence/Data Science**  
 University of Stirling, Stirling, United Kingdom  
 
-- **Best Researcher Award** by COMSATS University 2020/2021  
-- **DAAD AI-Net Fellow** 2021  
-- **Young Researcher** at Heidelberg Laureate Forum 2021 and 2017  
-- **Erasmus Mundus Scholar** 2014  
-- **HEC Scholar**  
-- **IBRO Alumnus**  
-- **Ex-Member, Advisory Committee on Science & Technology Projects** @ Directorate of Science & Technology, Govt. of KPK, Pakistan  
+**Best Researcher Award** by COMSATS University 2020/2021  
+**DAAD AI-Net Fellow** 2021  
+**Young Researcher** at Heidelberg Laureate Forum 2021 and 2017  
+**Erasmus Mundus Scholar** 2014  
+**HEC Scholar**  
+**IBRO Alumnus**  
+**Ex-Member, Advisory Committee on Science & Technology Projects** @ Directorate of Science & Technology, Govt. of KPK, Pakistan  
 
 [My webpage @ University of Stirling](https://www.stir.ac.uk/people/1987004)  
 
-- **Senior Member, IEEE**  
-- **HEC Approved PhD Supervisor**  
-- **Associate Editor** @ IEEE Access  
-- **Associate Editor** @ IEEE Technology Policy and Ethics Newsletter  
-- **Book Editor** @ Springer Nature  
+**Senior Member, IEEE**  
+**HEC Approved PhD Supervisor**  
+**Associate Editor** @ IEEE Access  
+**Associate Editor** @ IEEE Technology Policy and Ethics Newsletter  
+**Book Editor** @ Springer Nature  
 
 [![ORCID iD](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0003-3058-5794)  
 [On Google Scholar](https://scholar.google.com/citations?hl=en&user=GQhy-FYAAAAJ)  
 [On Web of Science](https://www.webofscience.com/wos/author/record/J-2920-2019) 
 
 # News
-- August 2022. I am giving a talk on _Generating Data for Medical AI - Beyond the hype_ at the HBKU Graduate Seminar. The talk is hosted by Prof. Mowafah Househ. 
-- June 2022 Our paper on UNet for medical image segmentation on edge devices is now published in IEEE Transactions on Circuits and Systems II. 
-- June 2022 Our paper on R2U++ model is published in Neural Computing and Applications (Springer).
-- May 2022 Our paper on super-resolution of medical images is accepted in Scientific Reports (Nature).
+-- <sub>February 2024</sub> PC Member at ECAI 2024 Conference  
+- <sub>February 2024</sub> PC Member at MIUA 2024 Conference  
+- <sub>February 2024</sub> PC Member at MICCAI 2024 Conference  
+- <sub>February 2024</sub> PC Member at IEEE CVPR Workshop on WiCV2024  
+- <sub>January 2024</sub> PC Member at IEEE International Conference on Artificial Intelligence, ICAI 2024  
+- <sub>January 2024</sub> PC Chair at Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, 2024  
+- <sub>December 2023</sub> Our edited book, *Advances in Deep Generative Models for Medical Artificial Intelligence*, is now published and available on [Springer Nature](https://link.springer.com/book/10.1007/978-3-031-46341-9)  
+
 
 
 
