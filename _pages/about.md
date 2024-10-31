@@ -38,12 +38,12 @@ University of Stirling, Stirling, United Kingdom
 
 # News
 -- <sub>February 2024</sub> PC Member at ECAI 2024 Conference  
-- <sub>February 2024</sub> PC Member at MIUA 2024 Conference  
-- <sub>February 2024</sub> PC Member at MICCAI 2024 Conference  
-- <sub>February 2024</sub> PC Member at IEEE CVPR Workshop on WiCV2024  
-- <sub>January 2024</sub> PC Member at IEEE International Conference on Artificial Intelligence, ICAI 2024  
-- <sub>January 2024</sub> PC Chair at Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, 2024  
-- <sub>December 2023</sub> Our edited book, *Advances in Deep Generative Models for Medical Artificial Intelligence*, is now published and available on [Springer Nature](https://link.springer.com/book/10.1007/978-3-031-46341-9)  
+-- <sub>February 2024</sub> PC Member at MIUA 2024 Conference  
+-- <sub>February 2024</sub> PC Member at MICCAI 2024 Conference  
+-- <sub>February 2024</sub> PC Member at IEEE CVPR Workshop on WiCV2024  
+-- <sub>January 2024</sub> PC Member at IEEE International Conference on Artificial Intelligence, ICAI 2024  
+-- <sub>January 2024</sub> PC Chair at Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, 2024  
+-- <sub>December 2023</sub> Our edited book, *Advances in Deep Generative Models for Medical Artificial Intelligence*, is now published and available on [Springer Nature](https://link.springer.com/book/10.1007/978-3-031-46341-9)  
 
 
 
