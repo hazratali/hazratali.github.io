@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+This page is under development. Visit [(alihazrat.weebly.com)](https://alihazrat.weebly.com/)
