@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am PC member at [IEEE ISBI 2025 conference]([https://biomedicalimaging.org/2025/). Consider submitting your work.
+I am PC member at [IEEE ISBI 2025 conference](https://biomedicalimaging.org/2025/). Consider submitting your work.
