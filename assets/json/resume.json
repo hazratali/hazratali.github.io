@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Hazrat Ali",
+    "label": "Lecturer in AI",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "ali.hazrat@stir.ac.uk",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://hazratali.github.io/",
+    "summary": "An AI Researcher and Educator",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Cottrell Building",
+      "postalCode": "G51 1LU",
+      "city": "Stirling",
+      "countryCode": "UK",
+      "region": "Scotland"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "hazrat_ai",
+        "url": "https://twitter.com/hazrat_ai"
       }
     ]
   },
