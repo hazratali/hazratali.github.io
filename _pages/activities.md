@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /activities/
-title: activities
+title: Activities
 description: Various Scientific Activities. 
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 ## Editorial Activities
@@ -80,8 +80,8 @@ nav_order: 6
 - **Reviewer**: MICCAI 2020 - 23rd International Conference on Medical Image Computing and Computer Assisted Intervention  
 - **Reviewer**: ACL 2019  
 - **PC Member**: ICET 2020 - IEEE International Conference on Emerging Technologies  
-- **Reviewer**: International Conference on Wireless Communications Signal Processing and Networking - IEEE WiSPNet 2018. [Website](http://www.wispnet2018.org/)  
-- **PC Member**: International Conference on Intelligent Technologies and Applications (INTAP) 2020, 2019, 2018. [Website](http://jdconline.net/intap/index.html)  
+- **Reviewer**: International Conference on Wireless Communications Signal Processing and Networking - IEEE WiSPNet 2018. 
+- **PC Member**: International Conference on Intelligent Technologies and Applications (INTAP) 2020, 2019, 2018.   
 - **PC Member**: International Conference on Latest Trends in Electrical Engineering & Computing Technologies (INTELLECT) 2019. [Website](http://intellect.pafkiet.edu.pk/)  
 - **PC Member**: Frontiers
 
