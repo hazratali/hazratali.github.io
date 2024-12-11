@@ -8,14 +8,14 @@ nav_order: 4
 ---
 
 ## Editorial Activities
-- Moderator and Host (since September 2022) Health Informatics Research Clinic. Read more here 
-- Lead Guest Editor, AI journal, speical issue on Multimodal Artificial Intelligence in Healthcare.
-- Associate Editor (since March 2018), IEEE Access
-- Academic Editor (since 2020), PeerJ Computer Science journal
-- Associate Editor (since April 2021), IEEE Technology Policy and Ethics Newsletter
-- Guest editor, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Radiology, Recent Advances in Multimodal Artificial Intelligence for Disease Diagnosis, Prognosis, and Prevention
-- Academic Editor (since April 2023), IET Software
-- Expert evaluator (2023-2024), Evaluator of Research Grant Proposals at SyMeCo, a Marie Skłodowska-Curie fellowship at LERO – the Science Foundation Ireland Research Centre for Software.
+- **Moderator and Host** (since September 2022) Health Informatics Research Clinic. [Read more here](https://alihazrat.medium.com/health-informatics-research-clinic-66f731b45bf9)
+- **Lead Guest Editor**, AI journal, speical issue on [Multimodal Artificial Intelligence in Healthcare](https://www.mdpi.com/journal/ai/special_issues/5649465XRZ).
+- **Associate Editor** (since March 2018), IEEE Access
+- **Academic Editor** (since 2020), PeerJ Computer Science journal
+- **Associate Editor** (since April 2021), IEEE Technology Policy and Ethics Newsletter
+- **Guest editor**, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Radiology, Recent Advances in Multimodal Artificial Intelligence for Disease Diagnosis, Prognosis, and Prevention
+- **Academic Editor** (since April 2023), IET Software
+- **Expert evaluator** (2023-2024), Evaluator of Research Grant Proposals at [**SyMeCo**](https://symeco.lero.ie/), a Marie Skłodowska-Curie fellowship at LERO – the Science Foundation Ireland Research Centre for Software.
 
 ### Professional Activities - Journals  
 
@@ -39,11 +39,22 @@ nav_order: 4
 - **Reviewer**: Springer - Neural Processing Letters  
 - **Reviewer**: Springer - Neural Computing and Applications  
 - **Reviewer**: Springer - Multimedia Tools and Applications  
-- **Reviewer**: Taylor & Francis Jour
+- **Reviewer**: Taylor & Francis Journal of Experimental & Theoretical Artificial Intelligence
+- **Reviewer**: Bahria University Journal of Information and Communication Technologies
+- **Reviewer**: Transactions on Internet and Information Systems
+- **Reviewer**: Frontiers in Public Health
+- **Reviewer**: International Journal of Intelligent Systems (Hindawi/Wiley)
+- **Reviewer**: Diagnostics
+- **Reviewer**: Electronics
+- **Reviewer**: Bioengineering
+- **Reviewer**: Mathematics
+- **Reviewer**: International Journal of Artificial Intelligence Tools
+
 
 ### Professional Activities - Conferences  
 
-- **PC Chair**: Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, January 2024, Turkey. [Website](https://fones-aiot.sci-conf.com/)  
+- **PC Chair**: Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, January 2025, Riyadh, Saudi Arabia. [Website](https://fones-aiot.sci-conf.com/) 
+- **PC Chair**: Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, January 2024, Istanbul, Turkey. [Website](https://fones-aiot.sci-conf.com/)  
 - **Publicity Co-chair**: Second International Conference on Artificial Intelligence of Things (ICAIoT) 2022, Turkey. [Website](https://icaiot.sci-conf.com/)  
 - **Session Chair**: Session on Deep Learning for Medical Images at International Conference on Machine Intelligence and Signal Processing 2022. [Website](https://misp2022.nitrr.ac.in/)  
 - **Lead Organizer/Chair**: NeurIPS meet-up, December 2020, Umea, Sweden. [Website](https://sites.google.com/view/neurips/home)  
@@ -83,7 +94,11 @@ nav_order: 4
 - **Reviewer**: International Conference on Wireless Communications Signal Processing and Networking - IEEE WiSPNet 2018. 
 - **PC Member**: International Conference on Intelligent Technologies and Applications (INTAP) 2020, 2019, 2018.   
 - **PC Member**: International Conference on Latest Trends in Electrical Engineering & Computing Technologies (INTELLECT) 2019. [Website](http://intellect.pafkiet.edu.pk/)  
-- **PC Member**: Frontiers
+- **PC Member**: Frontiers of Information Technology, FIT 2016 and FIT 2019. http://fit.edu.pk/ 
+- **PC Member**: International Conference on Advanced Communication Technologies, ICACT 2017, ICACT 2018, ICACT 2019 http://www.icact.org/ 
+- **PC Member**: Reviewer, Frontiers of Information Technology FIT 2016, FIT 2018, FIT 2019 http://fit.edu.pk/  
+- **PC Member**: Review Committee Co-chair, City Informatics PhD Symposium, (CIPS 2014), City University London.
+- **PC Member**: Sub-Reviewer, AAAI Conference on Weblogs and Social Media, 2014.
 
 
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
