@@ -8,7 +8,6 @@ nav_order: 4
 ---
 
 ## Selected Talks
-### Invited Talks and Presentations
 
 - **Invited Talk**: Beware of Generative AI in Healthcare Journalism, at *Tomorrow's News at Risk: Generative AI and Journalism* event, University of Stirling, UK, 21 November 2024.
 - **Invited Talk**: Can AI generate medical image data with clinical value?, at [*Recent Advances in Computer Science & Information Technology (RACSIT 2024)*](https://dv.ue.edu.pk/racsit2024/), Lahore, Pakistan, 05 March 2024.
