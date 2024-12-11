@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. 
+description: Lists of courses taught. 
 nav: true
 nav_order: 6
 ---
