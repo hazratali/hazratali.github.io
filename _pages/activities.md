@@ -21,7 +21,7 @@ nav_order: 4
 - **Contributed Talk**: Presented paper on Urdu Speech Recognition at *EANN 2016*, Aberdeen, UK.
 - **Workshop**: Conducted a two-day *Machine Learning Workshop*, 3–4 May 2016. Details available at: [mlworkshop.weebly.com](http://mlworkshop.weebly.com/), organized by IEEE Student Section CIIT Abbottabad and the Electrical Engineering Department CIIT Abbottabad.
 - **Invited Talk**: Deep Learning and Speech Processing, at the *2014 International Conference on Cyberspace Technology (CCT2014)*, Enshi, China, November 2014. [Slides link](https://example.com)
-- **Invited Talk**: Deep Learning for Audio Data – An Introduction, for graduate students of Software Engineering of USTB, China, and BTH, Sweden, 28 October 2014. [Slides link](presentation_hazratali_cct.pdf) or [slides link](https://alihazrat.weebly.com/uploads/1/3/8/5/13856112/presentation_hazratali_cct.pdf)
+- **Invited Talk**: Deep Learning for Audio Data – An Introduction, for graduate students of Software Engineering of USTB, China, and BTH, Sweden, 28 October 2014. [slides link](https://alihazrat.weebly.com/uploads/1/3/8/5/13856112/presentation_hazratali_cct.pdf) or [slides link 2](/assets/presentation_hazratali_cct)
 - **Talk**: Hybrid Features Combination for Audio Data Classification, at *Machine Learning Group Reading*, City University London, UK, April 2014. [Slides link](https://www.dropbox.com/scl/fi/nysmk5qknut2yeni0u6gh/slides-ali-mlgroup2014.pdf?rlkey=adyt1cz2g02tz9uffwapozamt&e=1&dl=0) 
 
 
