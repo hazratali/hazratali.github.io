@@ -135,7 +135,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Hazrat Ali # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: The blog page is yet to be updated
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -196,9 +196,9 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  projects:
-    output: true
-    permalink: /:collection/:title/
+  # projects:
+  #   output: true
+  #   permalink: /:collection/:title/
 
 announcements:
   enabled: true
@@ -206,7 +206,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
