@@ -16,7 +16,8 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
----
+
+---------------------------------------------------------
 <p style="color: red; font-size: 36px;">This page is under development</p>
 
 Hazrat Ali is a Lecturer in Artificial Intelligence and Data Science at the University of Stirling. He is an experienced educator and researcher with over a decade of experience in the field, including working as a researcher at the Biomedical Engineering R&D centre of Umea University Sweden and Hamad Bin Khalifa University Qatar. His extensive research portfolio spans various areas of Generative AI, Medical AI, healthcare, and computer vision, with a specific focus on generative adversarial networks for medical imaging, deep learning for ultrasound medical imaging, and AI for healthcare. He has developed AI methods for medical images for applications such as GANs for disease transformation, GANs for medical imaging super-resolutions, and deep learning for motor unit segmentation, which have been widely adopted and cited by the research community. He made contributions to deep learning for ultrasound imaging and the VIPVIZA projects at Umea University Sweden. In addition, he has developed open-source datasets, including a dataset of natural scene images with Urdu text, the UHaT dataset (the first dataset on Urdu handwritten characters), and a speech corpus for Urdu. These datasets, available on the Kaggle platform, have proven to be invaluable resources for AI-oriented tasks and have contributed to advancing the field of AI. 
