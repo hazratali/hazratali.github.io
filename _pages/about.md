@@ -30,7 +30,8 @@ Generative Artificial Intelligence, Medical Artificial Intelligence, Machine Lea
 **Sub-areas and applications:**
 
 Generative Adversarial Networks, Medical image segmentation, Medical image synthesis, Deep learning in ultrasound images, Features extraction from speech data, time-series data analysis, Data Science.
-_____________________________________________________________________________
+
+---------------------------------------------------------
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
