@@ -6,7 +6,7 @@
     "email": "ali.hazrat@stir.ac.uk",
     "phone": "(912) 123-4567",
     "url": "https://hazratali.github.io/",
-    "summary": "An AI Researcher and Educator",
+    "summary": "AI Researcher and Educator",
     "location": {
       "address": "Cottrell Building",
       "postalCode": "G51 1LU",
@@ -18,7 +18,7 @@
       {
         "network": "Twitter",
         "username": "hazrat_ai",
-        "url": "https://twitter.com/hazrat_ai"
+        "url": "https://x.com/hazrat_ai"
       }
     ]
   },
@@ -28,11 +28,10 @@
       "position": "Lecturer in AI/Data Science",
       "url": "https://www.cs.stir.ac.uk/",
       "startDate": "2024-08",
-      "endDate": , ""
+      "endDate": "",
       "summary": "Teaching at the Computing Science and Mathematics Division",
       "highlights": ""
     },
-
     {
       "name": "Hamad Bin Khalifa University, Qatar",
       "position": "Researcher",
