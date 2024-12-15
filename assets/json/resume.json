@@ -28,10 +28,10 @@
       "position": "Lecturer in AI/Data Science",
       "url": "https://www.cs.stir.ac.uk/",
       "startDate": "2024-08",
-      "endDate": ,
+      "endDate": , ""
       "summary": "Teaching at the Computing Science and Mathematics Division",
-      "highlights":
-    }
+      "highlights": ""
+    },
 
     {
       "name": "Hamad Bin Khalifa University, Qatar",
@@ -40,7 +40,7 @@
       "startDate": "2021-07",
       "endDate": "2024-04",
       "summary": "Research and Grant Writing, AI for Healthcare",
-      "highlights":
+      "highlights": ""
     }
   ],
   "volunteer": [
