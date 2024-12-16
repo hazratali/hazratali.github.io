@@ -71,6 +71,7 @@ nav_order: 4
 
 ### Professional Activities - Conferences  
 
+- **Ara Chair**: 2025 IEEE International Joint Conference on Neural Networks, Rome, Italy. [Website](https://2025.ijcnn.org/) 
 - **PC Chair**: Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, January 2025, Riyadh, Saudi Arabia. [Website](https://fones-aiot.sci-conf.com/) 
 - **PC Chair**: Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, January 2024, Istanbul, Turkey. [Website](https://fones-aiot.sci-conf.com/)  
 - **Publicity Co-chair**: Second International Conference on Artificial Intelligence of Things (ICAIoT) 2022, Turkey. [Website](https://icaiot.sci-conf.com/)  
