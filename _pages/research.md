@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 <div style="text-align: center;">
-  <img src="https://hazratali.github.io/assets/img/research.jpeg" alt="Research Highlights" style="display: block; margin: auto;">
+  <img src="https://hazratali.github.io/assets/img/research.svg" alt="Research Highlights" style="display: block; margin: auto;">
 </div>
 
 # Generative AI in Healthcare
