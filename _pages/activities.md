@@ -17,9 +17,9 @@ nav_order: 4
 - **Seminar Talk**: Medical Image Data Augmentation using GANs, at *Medicinsk Teknik FoU*, Umea University, Sweden, hosted by AI @ MT-FoU Seminar Series, 27 May 2020. [Slides available here](https://www.slideshare.net/slideshow/medical-image-data-augmentation-using-gans/234868154#17)
 - **Seminar Talk**: Generative Adversarial Networks and Medical Imaging, at *Medicinsk Teknik FoU*, Umea University, Sweden, hosted by Dr. Christer Gronlund, January 2020.
 - **Invited Talk**: Deep Learning and the Rise of AI, at the *International Conference on Computational Science and Technologies (INCCST 2019)*, Mehran UET Jamshoro, 10–12 April 2019.
-- **Workshop Talk**: LaTeX Document Compilation Workshop, conducted a one-day training workshop on LaTeX document compilation, 4 May 2018, at COMSATS Abbottabad. [Selected slides available here](https://www.slideshare.net/HazratAli1/slides-1-alilatex)
+- **Workshop Talk**: Lead coordinator and resource person for [LaTeX Document Compilation Workshop](https://latex2018.weebly.com/), a one-day training workshop on LaTeX document compilation, 4 May 2018, at COMSATS Abbottabad. [Selected slides available here](https://www.slideshare.net/HazratAli1/slides-1-alilatex)
 - **Contributed Talk**: Presented paper on Urdu Speech Recognition at *EANN 2016*, Aberdeen, UK.
-- **Workshop**: Conducted a two-day *Machine Learning Workshop*, 3–4 May 2016. Details available at: [mlworkshop.weebly.com](http://mlworkshop.weebly.com/), organized by IEEE Student Section CIIT Abbottabad and the Electrical Engineering Department CIIT Abbottabad.
+- **Workshop**: Lead organizer and resource person for a two-day *Machine Learning Workshop*, 3–4 May 2016. Details available at: [mlworkshop.weebly.com](http://mlworkshop.weebly.com/), organized by IEEE Student Section CIIT Abbottabad and the Electrical Engineering Department CIIT Abbottabad.
 - **Invited Talk**: Deep Learning and Speech Processing, at the *2014 International Conference on Cyberspace Technology (CCT2014)*, Enshi, China, November 2014. [Slides link](https://example.com)
 - **Invited Talk**: Deep Learning for Audio Data – An Introduction, for graduate students of Software Engineering of USTB, China, and BTH, Sweden, 28 October 2014. [slides link](https://alihazrat.weebly.com/uploads/1/3/8/5/13856112/presentation_hazratali_cct.pdf) or [slides link 2](https://hazratali.github.io/assets/pdf/presentation_hazratali_cct.pdf)
 - **Talk**: Hybrid Features Combination for Audio Data Classification, at *Machine Learning Group Reading*, City University London, UK, April 2014. [Slides link](https://www.dropbox.com/scl/fi/nysmk5qknut2yeni0u6gh/slides-ali-mlgroup2014.pdf?rlkey=adyt1cz2g02tz9uffwapozamt&e=1&dl=0) 
@@ -31,7 +31,7 @@ nav_order: 4
 - **Associate Editor** (since March 2018), IEEE Access
 - **Academic Editor** (since 2020), PeerJ Computer Science journal
 - **Associate Editor** (since April 2021), IEEE Technology Policy and Ethics Newsletter
-- **Guest editor**, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Radiology, Recent Advances in Multimodal Artificial Intelligence for Disease Diagnosis, Prognosis, and Prevention
+- **Guest editor**, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Radiology, [Recent Advances in Multimodal Artificial Intelligence for Disease Diagnosis, Prognosis, and Prevention](https://www.frontiersin.org/research-topics/50539/recent-advances-in-multimodal-artificial-intelligence-for-disease-diagnosis-prognosis-and-prevention/magazine)
 - **Academic Editor** (since April 2023), IET Software
 - **Expert evaluator** (2023-2024), Evaluator of Research Grant Proposals at [**SyMeCo**](https://symeco.lero.ie/), a Marie Skłodowska-Curie fellowship at LERO – the Science Foundation Ireland Research Centre for Software.
 
