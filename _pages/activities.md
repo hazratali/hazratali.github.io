@@ -9,6 +9,7 @@ nav_order: 4
 
 ## Selected Talks
 
+- **Invited Talk**: Revisiting the Pitfalls in AI, hosted by *SID Lab*, University of Engineering and Technology Peshawar, 18 December 2024.
 - **Invited Talk**: Beware of Generative AI in Healthcare Journalism, at *Tomorrow's News at Risk: Generative AI and Journalism* event, University of Stirling, UK, 21 November 2024.
 - **Invited Talk**: Can AI generate medical image data with clinical value?, at [*Recent Advances in Computer Science & Information Technology (RACSIT 2024)*](https://dv.ue.edu.pk/racsit2024/), Lahore, Pakistan, 05 March 2024.
 - **Seminar Talk**: Generating Data for Medical AI – Beyond the Hype, at *Graduate Health Informatics Seminar*, hosted by Prof. Mowafa Househ, HBKU, Qatar, 31 August 2022.

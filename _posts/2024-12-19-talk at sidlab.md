@@ -8,7 +8,7 @@ categories: sample-posts
 tabs: true
 ---
 
-I had the privilege of delivering a seminar talk titled "Revisiting the Pitfalls in AI" at the **SID Lab, University of Engineering and Technology (UET), Peshawar**. The session was an incredible opportunity to connect with a vibrant audience of students, faculty, and AI enthusiasts, sharing a passion for exploring the evolving landscape of artificial intelligence.
+I had the privilege of delivering a seminar talk titled **Revisiting the Pitfalls in AI** at the [SID Lab, University of Engineering and Technology (UET), Peshawar](https://www.linkedin.com/company/sidlabuet/). The session was an incredible opportunity to connect with a vibrant audience of students, faculty, and AI enthusiasts, sharing a passion for exploring the evolving landscape of artificial intelligence.
 
 The talk focused on exploring the challenges, failures, and ethical dilemmas in AI and highlighted the ethical considerations, biases in data, interpretability issues, and the impact of AI on society. Together, we discussed how researchers and practitioners can navigate these complexities to ensure AI develops responsibly and inclusively. It was a pleasure talking to an international audience as the talk was attending by faculty members, students, and online international audiences from the UK, Italy, and South Korea.
 
