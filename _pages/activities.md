@@ -34,7 +34,7 @@ nav_order: 4
 - **Associate Editor** (since April 2021), IEEE Technology Policy and Ethics Newsletter
 - **Guest editor**, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Radiology, [Recent Advances in Multimodal Artificial Intelligence for Disease Diagnosis, Prognosis, and Prevention](https://www.frontiersin.org/research-topics/50539/recent-advances-in-multimodal-artificial-intelligence-for-disease-diagnosis-prognosis-and-prevention/magazine)
 - **Academic Editor** (since April 2023), IET Software
-- **Expert evaluator** (2023-2024), Evaluator of Research Grant Proposals at [**SyMeCo**](https://symeco.lero.ie/), a Marie Skłodowska-Curie fellowship at LERO – the Science Foundation Ireland Research Centre for Software.
+- **Expert evaluator** (2023-2024), Evaluator of Research Grant Proposals at [SyMeCo](https://symeco.lero.ie/), a Marie Skłodowska-Curie fellowship at **LERO** - the Science Foundation Ireland Research Centre for Software.
 
 ### Professional Activities - Journals  
 
