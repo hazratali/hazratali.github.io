@@ -76,7 +76,7 @@ nav_order: 4
 - **PC Chair**: Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, January 2025, Riyadh, Saudi Arabia. [Website](https://fones-aiot.sci-conf.com/) 
 - **PC Chair**: Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, January 2024, Istanbul, Turkey. [Website](https://fones-aiot.sci-conf.com/)  
 - **Publicity Co-chair**: Second International Conference on Artificial Intelligence of Things (ICAIoT) 2022, Turkey. [Website](https://icaiot.sci-conf.com/)  
-- **Session Chair**: Session on Deep Learning for Medical Images at International Conference on Machine Intelligence and Signal Processing 2022. [Website](https://misp2022.nitrr.ac.in/)  
+- **Session Chair**: Session on Deep Learning for Medical Images at International Conference on Machine Intelligence and Signal Processing 2022.  
 - **Lead Organizer/Chair**: NeurIPS meet-up, December 2020, Umea, Sweden. [Website](https://sites.google.com/view/neurips/home)  
 - **Reviewer Mentor**: Machine Learning for Health Symposium 2023, New Orleans, United States, 10 December 2023  
 - **Reviewer Mentor**: Machine Learning for Health Symposium 2022, New Orleans, United States, 28 November 2022  
