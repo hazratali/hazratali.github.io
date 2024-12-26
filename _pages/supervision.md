@@ -57,7 +57,7 @@ profiles:
     content: about_talha.md
     image_circular: false # crops the image to make it circular
     more_info: >
-        <p>Owais Ali</p>
+      <p>Owais Ali</p>
       <p>Australia</p>
   - align: left
     image: ha.png
@@ -72,7 +72,7 @@ profiles:
     more_info: >
       <p>Muhammad Shakaib Iqbal</p>
   - align: left
-    image: ha.png
+    image: prof_ahsan.jpg
     content: about_ashan.md
     image_circular: false # crops the image to make it circular
     more_info: >
