@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /supervision/
 title: Supervision
-description: Students supervised
+description: Students supervised - LIST BELOW IS YET TO BE UPDATED
 nav: true
 nav_order: 7
 
@@ -17,7 +17,7 @@ profiles:
       <p>Jamie Clement</p>
       <p>University of Stirling</p>
   - align: right
-    image: talhaiqbal.png
+    image: prof_talhaiqbal.png
     content: about_talha.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -25,12 +25,12 @@ profiles:
       <p>University of Galway</p>
       <p>Ireland</p>
   - align: left
-    image: ha.png
-    content: about_talha.md
+    image: prof_muneeb.jpg
+    content: about_muneeb.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Muhammad Muneeb Saad</p>
-      <p>University of Galway</p>
+      <p>Munster Technological University</p>
       <p>Ireland</p>
   - align: left
     image: ha.png
@@ -61,16 +61,11 @@ profiles:
     content: about_talha.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Muhammad Muneeb Saad</p>
-      <p>University of Galway</p>
-      <p>Ireland</p>
+      <p>Nasir Khan</p>
   - align: left
     image: ha.png
-    content: about_talha.md
+    content: about_shakaib.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Muhammad Muneeb Saad</p>
-      <p>University of Galway</p>
-      <p>Ireland</p>
-      
+      <p>Muhammad Shakaib Iqbal</p>
 ---
