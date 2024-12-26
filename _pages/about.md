@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.cs.stir.ac.uk/'>University of Stirling</a>., Scotland, United Kingdom.
+subtitle: <a href='https://www.cs.stir.ac.uk/'>University of Stirling</a>, Scotland, United Kingdom.
 
 profile:
   align: right
