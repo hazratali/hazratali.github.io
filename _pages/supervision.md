@@ -32,30 +32,33 @@ profiles:
       <p>Muhammad Muneeb Saad</p>
       <p>Munster Technological University</p>
       <p>Ireland</p>
+  - align: right
+    image: ha.png
+    content: about_talha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Ahsan Ullah</p>
+  - align: left
+    image: ha.png
+    content: about_mehreen.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Mehreen Mubashir</p>
   - align: left
     image: ha.png
     content: about_talha.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Muhammad Muneeb Saad</p>
-      <p>University of Galway</p>
+      <p>Faizan Munawar</p>
+      <p>Atlantic Technological University</p>
       <p>Ireland</p>
   - align: left
     image: ha.png
     content: about_talha.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Muhammad Muneeb Saad</p>
-      <p>University of Galway</p>
-      <p>Ireland</p>
-  - align: left
-    image: ha.png
-    content: about_talha.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Muhammad Muneeb Saad</p>
-      <p>University of Galway</p>
-      <p>Ireland</p>
+        <p>Owais Ali</p>
+      <p>Australia</p>
   - align: left
     image: ha.png
     content: about_talha.md
@@ -68,4 +71,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Muhammad Shakaib Iqbal</p>
+  - align: left
+    image: ha.png
+    content: about_ashan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Ahsan Ullah</p>
 ---
