@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: 
+    image: ha.png
     content: about_jamie.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -25,7 +25,47 @@ profiles:
       <p>University of Galway</p>
       <p>Ireland</p>
   - align: left
-    image: talhaiqbal.png
+    image: ha.png
+    content: about_talha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Muhammad Muneeb Saad</p>
+      <p>University of Galway</p>
+      <p>Ireland</p>
+  - align: left
+    image: ha.png
+    content: about_talha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Muhammad Muneeb Saad</p>
+      <p>University of Galway</p>
+      <p>Ireland</p>
+  - align: left
+    image: ha.png
+    content: about_talha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Muhammad Muneeb Saad</p>
+      <p>University of Galway</p>
+      <p>Ireland</p>
+  - align: left
+    image: ha.png
+    content: about_talha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Muhammad Muneeb Saad</p>
+      <p>University of Galway</p>
+      <p>Ireland</p>
+  - align: left
+    image: ha.png
+    content: about_talha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Muhammad Muneeb Saad</p>
+      <p>University of Galway</p>
+      <p>Ireland</p>
+  - align: left
+    image: ha.png
     content: about_talha.md
     image_circular: false # crops the image to make it circular
     more_info: >
