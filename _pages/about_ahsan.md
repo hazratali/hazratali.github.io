@@ -1,6 +1,7 @@
 ## [Ahsan Ullah](https://www.linkedin.com/in/ahsankhan86/)
 
-Thesis title:
-**To be updated**
+Msc Thesis title:
+**Deep Autoencoder for Handwritten Text Recognition of Urdu**
 
-Information to be updated later. 
+Graduated July 2017. 
+Now Engineering Team Lead at Supple Digital, Australia. 
