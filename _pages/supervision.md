@@ -71,10 +71,10 @@ profiles:
   #   image_circular: false # crops the image to make it circular
   #   more_info: >
   #     <p>Muhammad Shakaib Iqbal</p>
-  # - align: left
-  #   image: prof_ahsan.jpg
-  #   content: about_ashan.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #     <p>Ahsan Ullah</p>
+  - align: left
+    image: prof_ahsan.jpg
+    content: about_ahsan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Ahsan Ullah</p>
 ---
