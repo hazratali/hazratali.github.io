@@ -16,14 +16,14 @@ profiles:
     more_info: >
       <p>Jamie Clement</p>
       <p>University of Stirling</p>
-  # - align: right
-  #   image: prof_talhaiqbal.png
-  #   content: about_talha.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #     <p>Talha Iqbal</p>
-  #     <p>University of Galway</p>
-  #     <p>Ireland</p>
+  - align: right
+    image: prof_talhaiqbal.png
+    content: about_talha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Talha Iqbal</p>
+      <p>University of Galway</p>
+      <p>Ireland</p>
   # - align: left
   #   image: prof_muneeb.jpg
   #   content: about_muneeb.md
