@@ -44,6 +44,14 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Mehreen Mubashir</p>
+  - align: left
+    image: prof_faizan.jpg
+    content: about_faizan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Faizan Munawar</p>
+      <p>Atlantic Technological University</p>
+      <p>Ireland</p>
   # - align: left
   #   image: ha.png
   #   content: about_talha.md
