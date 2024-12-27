@@ -1,6 +1,6 @@
 ## [Muhammad Muneeb Saad](https://www.linkedin.com/in/muhammad-muneeb-saad-pak123456/)
 
-Thesis title:
+MSc Thesis title:
 **Fraud detection using recurrent neural networks**
 
 Graduated July 2018. Now PhD student at Munster Technological University, Ireland.
