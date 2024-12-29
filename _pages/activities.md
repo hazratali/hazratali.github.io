@@ -26,6 +26,7 @@ nav_order: 4
 - **Invited Talk**: Deep Learning and Speech Processing, at the *2014 International Conference on Cyberspace Technology (CCT2014)*, Enshi, China, November 2014. [Slides link](https://example.com)
 - **Invited Talk**: Deep Learning for Audio Data – An Introduction, for graduate students of Software Engineering of USTB, China, and BTH, Sweden, 28 October 2014. [slides link](https://alihazrat.weebly.com/uploads/1/3/8/5/13856112/presentation_hazratali_cct.pdf) or [slides link 2](https://hazratali.github.io/assets/pdf/presentation_hazratali_cct.pdf)
 - **Talk**: Hybrid Features Combination for Audio Data Classification, at *Machine Learning Group Reading*, City University London, UK, April 2014. [Slides link](https://www.dropbox.com/scl/fi/nysmk5qknut2yeni0u6gh/slides-ali-mlgroup2014.pdf?rlkey=adyt1cz2g02tz9uffwapozamt&e=1&dl=0) 
+
 </details>
 
 
@@ -41,6 +42,7 @@ nav_order: 4
 - **Guest editor**, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Radiology, [Recent Advances in Multimodal Artificial Intelligence for Disease Diagnosis, Prognosis, and Prevention](https://www.frontiersin.org/research-topics/50539/recent-advances-in-multimodal-artificial-intelligence-for-disease-diagnosis-prognosis-and-prevention/magazine)
 - **Academic Editor** (since April 2023), IET Software
 - **Expert evaluator** (2023-2024), Evaluator of Research Grant Proposals at [SyMeCo](https://symeco.lero.ie/), a Marie Skłodowska-Curie fellowship at **LERO** - the Science Foundation Ireland Research Centre for Software.
+
 </details>
 
 ### Professional Activities - Journals  
@@ -77,6 +79,7 @@ nav_order: 4
 - **Reviewer**: Bioengineering
 - **Reviewer**: Mathematics
 - **Reviewer**: International Journal of Artificial Intelligence Tools
+
 </details>
 
 
@@ -131,6 +134,7 @@ nav_order: 4
 - **PC Member**: Reviewer, Frontiers of Information Technology FIT 2016, FIT 2018, FIT 2019 http://fit.edu.pk/  
 - **PC Member**: Review Committee Co-chair, City Informatics PhD Symposium, (CIPS 2014), City University London.
 - **PC Member**: Sub-Reviewer, AAAI Conference on Weblogs and Social Media, 2014.
+
 </details>
 
 

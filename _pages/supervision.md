@@ -104,10 +104,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Afsheen Rehman</p>
-- align: left
-    image: ha.png
-    content: about_shakaib.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Shakaib Iqbal</p>
+# - align: left
+#     image: ha.png
+#     content: about_shakaib.md
+#     image_circular: false # crops the image to make it circular
+#     more_info: >
+#       <p>Shakaib Iqbal</p>
 ---
