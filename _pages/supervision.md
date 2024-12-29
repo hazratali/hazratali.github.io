@@ -61,7 +61,7 @@ profiles:
       <p>Queensland University of Technology, Australia</p>
       <p>Australia</p>
   - align: right
-    image: prof_waqar
+    image: prof_waqar.jpg
     content: about_waqar.md
     image_circular: false # crops the image to make it circular
     more_info: >
