@@ -68,13 +68,12 @@ profiles:
       <p>Waqar Ahmad</p>
       <p>Dublin City University</p>
       <p>Ireland</p>
-  # - align: left
-  #   image: ha.png
-  #   content: about_talha.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #     <p>Owais Ali</p>
-  #     <p>Australia</p>
+  - align: left
+    image: ha.png
+    content: about_aiman.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Aiman Tahir</p>
   # - align: left
   #   image: ha.png
   #   content: about_talha.md
