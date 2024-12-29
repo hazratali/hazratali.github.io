@@ -30,13 +30,13 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ahsan Ullah</p>
-  - align: left
+  - align: right
     image: ha.jpg
     content: about_nasir.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Nasir Khan</p>
-  - align: right
+  - align: left
     image: prof_muneeb.jpg
     content: about_muneeb.md
     image_circular: false # crops the image to make it circular
@@ -44,13 +44,13 @@ profiles:
       <p>Muhammad Muneeb Saad</p>
       <p>Munster Technological University</p>
       <p>Ireland</p>
-  - align: left
+  - align: right
     image: ha.png
     content: about_mehreen.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Mehreen Mubashir</p>
-  - align: right
+  - align: left
     image: prof_faizan.jpg
     content: about_faizan.md
     image_circular: false # crops the image to make it circular
@@ -58,7 +58,7 @@ profiles:
       <p>Faizan Munawar</p>
       <p>Atlantic Technological University</p>
       <p>Ireland</p>
-  - align: left
+  - align: right
     image: prof_owaisali.jpg
     content: about_owaisali.md
     image_circular: false # crops the image to make it circular
@@ -66,7 +66,7 @@ profiles:
       <p>Owais Ali</p>
       <p>Queensland University of Technology, Australia</p>
       <p>Australia</p>
-  - align: right
+  - align: left
     image: prof_waqar.jpg
     content: about_waqar.md
     image_circular: false # crops the image to make it circular
@@ -74,12 +74,18 @@ profiles:
       <p>Waqar Ahmad</p>
       <p>Dublin City University</p>
       <p>Ireland</p>
-  - align: left
+  - align: right
     image: ha.png
     content: about_aiman.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Aiman Tahir</p>
+  - align: left
+    image: ha.png
+    content: about_rafiq.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Muhammad Rafiq</p>
   - align: right
     image: ha.png
     content: about_shafqat.md
@@ -88,17 +94,11 @@ profiles:
       <p>Shafqat Ali</p>
   - align: left
     image: ha.png
-    content: about_rafiq.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Muhammad Rafiq</p>
-  - align: left
-    image: ha.png
     content: about_zia.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Zia Ullah</p>
-- align: left
+- align: right
     image: ha.png
     content: about_afsheen.md
     image_circular: false # crops the image to make it circular
