@@ -44,7 +44,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Mehreen Mubashir</p>
-  - align: left
+  - align: right
     image: prof_faizan.jpg
     content: about_faizan.md
     image_circular: false # crops the image to make it circular
@@ -52,20 +52,22 @@ profiles:
       <p>Faizan Munawar</p>
       <p>Atlantic Technological University</p>
       <p>Ireland</p>
-  # - align: left
-  #   image: ha.png
-  #   content: about_talha.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #     <p>Ahsan Ullah</p>
-  # - align: left
-  #   image: ha.png
-  #   content: about_talha.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #     <p>Faizan Munawar</p>
-  #     <p>Atlantic Technological University</p>
-  #     <p>Ireland</p>
+  - align: left
+    image: prof_owaisali.jpg
+    content: about_owaisali.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Owais Ali</p>
+      <p>Queensland University of Technology, Australia</p>
+      <p>Australia</p>
+  - align: right
+    image: prof_waqar
+    content: about_waqar.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Waqar Ahmad</p>
+      <p>Dublin City University</p>
+      <p>Ireland</p>
   # - align: left
   #   image: ha.png
   #   content: about_talha.md
