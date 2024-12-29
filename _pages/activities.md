@@ -8,8 +8,6 @@ nav_order: 4
 ---
 
 ## Selected Talks
-<details>
-      <summary>Click to expand</summary>
 
 - **Invited Talk**: Revisiting the Pitfalls in AI, hosted by *SID Lab*, University of Engineering and Technology Peshawar, 18 December 2024. See [here](https://www.linkedin.com/posts/sidlabuet_seminar-recap-revisiting-the-pitfalls-in-activity-7275346643770626048-FmPq?utm_source=share&utm_medium=member_desktop) and [here](https://hazratali.github.io/blog/2024/talk-at-sidlab/).
 - **Invited Talk**: Beware of Generative AI in Healthcare Journalism, at *Tomorrow's News at Risk: Generative AI and Journalism* event, University of Stirling, UK, 21 November 2024.
@@ -27,10 +25,9 @@ nav_order: 4
 - **Invited Talk**: Deep Learning for Audio Data – An Introduction, for graduate students of Software Engineering of USTB, China, and BTH, Sweden, 28 October 2014. [slides link](https://alihazrat.weebly.com/uploads/1/3/8/5/13856112/presentation_hazratali_cct.pdf) or [slides link 2](https://hazratali.github.io/assets/pdf/presentation_hazratali_cct.pdf)
 - **Talk**: Hybrid Features Combination for Audio Data Classification, at *Machine Learning Group Reading*, City University London, UK, April 2014. [Slides link](https://www.dropbox.com/scl/fi/nysmk5qknut2yeni0u6gh/slides-ali-mlgroup2014.pdf?rlkey=adyt1cz2g02tz9uffwapozamt&e=1&dl=0) 
 
-</details>
-
 
 ## Editorial Activities
+
 <details>
       <summary>Click to expand</summary>
 
@@ -46,6 +43,7 @@ nav_order: 4
 </details>
 
 ### Professional Activities - Journals  
+
 <details>
       <summary>Click to expand</summary>
 
@@ -84,6 +82,7 @@ nav_order: 4
 
 
 ### Professional Activities - Conferences  
+
 <details>
       <summary>Click to expand</summary>
 
