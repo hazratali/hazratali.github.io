@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /supervision/
 title: Supervision
-description: Students supervised - LIST BELOW IS YET TO BE UPDATED
+description: Students supervisedD
 nav: true
 nav_order: 7
 
@@ -92,12 +92,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Shafqat Ali</p>
-#   - align: left
-#     image: ha.png
-#     content: about_zia.md
-#     image_circular: false # crops the image to make it circular
-#     more_info: >
-#       <p>Zia Ullah</p>
+  - align: left
+    image: ha.png
+    content: about_zia.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Zia Ullah</p>
 # - align: right
 #     image: ha.png
 #     content: about_afsheen.md
