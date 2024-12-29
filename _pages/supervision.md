@@ -30,6 +30,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ahsan Ullah</p>
+  - align: left
+    image: ha.jpg
+    content: about_nasir.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Nasir Khan</p>
   - align: right
     image: prof_muneeb.jpg
     content: about_muneeb.md
@@ -74,16 +80,34 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Aiman Tahir</p>
-  # - align: left
-  #   image: ha.png
-  #   content: about_talha.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #     <p>Nasir Khan</p>
-  # - align: left
-  #   image: ha.png
-  #   content: about_shakaib.md
-  #   image_circular: false # crops the image to make it circular
-  #   more_info: >
-  #     <p>Muhammad Shakaib Iqbal</p>
+  - align: right
+    image: ha.png
+    content: about_shafqat.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Shafqat Ali</p>
+  - align: left
+    image: ha.png
+    content: about_rafiq.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Muhammad Rafiq</p>
+  - align: left
+    image: ha.png
+    content: about_zia.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Zia Ullah</p>
+- align: left
+    image: ha.png
+    content: about_afsheen.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Afsheen Rehman</p>
+- align: left
+    image: ha.png
+    content: about_shakaib.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Shakaib Iqbal</p>
 ---
