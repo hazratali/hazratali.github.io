@@ -3,4 +3,4 @@
 MSc Thesis title:
 **Tuberculosis Identification using Mask R-CNN**
 
-Graduated Jan 2020
+Graduated January 2020.
