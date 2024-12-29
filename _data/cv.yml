@@ -43,14 +43,14 @@
         #     - Sub-description 2.
     - title: Researcher
       institution: Hamad Bin Khalifa University, Doha, Qatar=
-      year: July 2021 - April 2024
+      year: Jul 2021 - Apr 2024
       description:
         - AI for Healthcare
         # - Description 2.
 
     - title: Senior Researcher
       institution: Umea University Hospital, Biomedical Engineering R&D center, Umea, Sweden. 
-      year: January 2020 - June 2021
+      year: Jan 2020 - Jun 2021
       description:
         - Deep learning for ultrasound images.
         # - Description 2.
