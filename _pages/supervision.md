@@ -86,12 +86,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Muhammad Rafiq</p>
-#   - align: right
-#     image: ha.png
-#     content: about_shafqat.md
-#     image_circular: false # crops the image to make it circular
-#     more_info: >
-#       <p>Shafqat Ali</p>
+  - align: right
+    image: ha.png
+    content: about_shafqat.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Shafqat Ali</p>
 #   - align: left
 #     image: ha.png
 #     content: about_zia.md
