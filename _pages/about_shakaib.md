@@ -1,4 +1,4 @@
-## [Muhammad Shakaib Iqbal](https://hazratali.github.io/supervision/)
+## [Muhammad Shakaib Iqbal](https://hazratali.github.io/)
 
 MSc Thesis title:
 **​Trees classification in aerial imagery using modified CNN**

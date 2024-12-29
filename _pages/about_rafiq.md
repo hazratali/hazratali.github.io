@@ -1,4 +1,4 @@
-## [Muhammad Rafiq](https://hazratali.github.io/supervision/)
+## [Muhammad Rafiq](https://hazratali.github.io/)
 
 MSc Thesis title:
 **Medical Image Synthesis Using Generative Adversarial Networks**

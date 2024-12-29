@@ -1,4 +1,4 @@
-## [Zia Ullah](https://hazratali.github.io/supervision/)
+## [Zia Ullah](https://hazratali.github.io/)
 
 Msc Thesis title:
 **Urdu Text Extraction from Natural Scene Images**
