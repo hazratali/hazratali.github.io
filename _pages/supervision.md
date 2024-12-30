@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: ha.png
+    image: no-image-50.png
     content: about_jamie.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -45,7 +45,7 @@ profiles:
       <p>Munster Technological University</p>
       <p>Ireland</p>
   - align: right
-    image: ha.png
+    image: no-image-50.png
     content: about_mehreen.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -75,7 +75,7 @@ profiles:
       <p>Dublin City University</p>
       <p>Ireland</p>
   - align: right
-    image: ha.png
+    image: no-image-50.png
     content: about_aiman.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -87,19 +87,19 @@ profiles:
     more_info: >
       <p>Muhammad Rafiq</p>
   - align: right
-    image: ha.png
+    image: no-image-50.png
     content: about_shafqat.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Shafqat Ali</p>
   - align: left
-    image: ha.png
+    image: no-image-50.png
     content: about_zia.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Zia Ullah</p>
   - align: right
-    image: ha.png
+    image: no-image-50.png
     content: about_afsheen.md
     image_circular: false # crops the image to make it circular
     more_info: >
