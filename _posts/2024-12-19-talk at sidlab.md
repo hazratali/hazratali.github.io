@@ -3,8 +3,8 @@ layout: post
 title: Seminar talk on Revisiting the Pitfalls in AI
 date: 2024-12-19 08:32:13
 description: Summary of seminar talk at SID Lab, University of Engineering and Technology Peshawar
-tags: seminar
-categories: sample-posts
+tags: seminar talk research
+categories: talks
 tabs: true
 ---
 
