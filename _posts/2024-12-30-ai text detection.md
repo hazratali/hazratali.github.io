@@ -3,8 +3,8 @@ layout: post
 title: AI text detection tools
 date: 2024-12-30 08:34:13
 description: 
-tags: genAI
-categories: sample-posts
+tags: genAI, plagiarism
+categories: genAI
 tabs: true
 ---
 
