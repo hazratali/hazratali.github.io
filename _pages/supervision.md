@@ -31,7 +31,7 @@ profiles:
     more_info: >
       <p>Ahsan Ullah</p>
   - align: right
-    image: ha.jpg
+    image: prof_nasir.jpg
     content: about_nasir.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -105,7 +105,7 @@ profiles:
     more_info: >
       <p>Afsheen Rehman</p>
   - align: left
-    image: ha.png
+    image: prof_shakaib.jpg
     content: about_shakaib.md
     image_circular: false # crops the image to make it circular
     more_info: >
