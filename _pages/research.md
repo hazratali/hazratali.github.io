@@ -42,6 +42,7 @@ Urdu is the national language of Pakistan and one of the major languages of the 
 - Build a deep learning framework for recognition of the isolated words.
 
 Some related publication from this work is: https://arxiv.org/abs/1912.07943 OR  https://link.springer.com/article/10.1007%2Fs42452-019-1914-1
+
 The **UHaT dataset** can be obtained for free from Kaggle https://www.kaggle.com/hazrat/uhat-urdu-handwritten-text-dataset
 
 ​The UHaT dataset is now featured on the [IAPR Technical Committee 11 webpage](https://tc11.cvc.uab.es/datasets/UHaT_1). 
@@ -51,7 +52,7 @@ The **UHaT dataset** can be obtained for free from Kaggle https://www.kaggle.com
 ## Urdu Speech Recognition
 Automatic Speech Recognition (ASR) has been a topic of interest for the last several decades. Today, ASR technology is widely used in our daily life as in Android/iOS devices as robust speech recognition frameworks are available for developed languages. However, for Urdu language, the research work is less developed. This project provides: 
 
-- A freely available speech corpus of Urdu isolated words. Currently, the corpus is consists of 250 words. In more refined form, a corpus of 100 words can be obtained for free use (available from download section of this website).
+- A freely available speech corpus of Urdu isolated words. Currently, the corpus consists of 250 words. In more refined form, a corpus of 100 words can be obtained for free use (available from download section of this website).
 - This work provides a suitable baseline approach based on extraction of Mel-frequency cepstral coefficients and then used for training speech recognition engine such as Hidden Markov Models. The results obtained thus are good baseline for further research work. Particular topic of interest is continuous speech recognition of Urdu.
 
 The dataset can be obtained for free from Kaggle (https://www.kaggle.com/datasets/hazrat/urdu-speech-dataset)
