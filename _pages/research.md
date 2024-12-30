@@ -23,3 +23,34 @@ Read about this work in Nature Scientific Reports
 ## 3D CycleGAN model for ultrasound image sequences of intra-muscular skeletal muscle contractions
 Advances in sports medicine, rehabilitation applications and diagnostics of neuromuscular disorders are based on the analysis of skeletal muscle contractions. Medical imaging techniques have transformed the study of muscle contractions by allowing to learn the complex patterns of muscle activation. We use deep learning (3D cycleGAN) to model the authentic intra-muscular skeletal muscle contraction pattern using domain-to-domain translation between in silico (simulated) and in vivo (experimental) image sequences of skeletal muscle contraction dynamics. Our results show that there are large differences between the spatial features of in silico and in vivo data, and that a model could be trained to generate authentic spatio-temporal features similar to those obtained from in vivo experimental data.
 Read about this work in Biomedical Engineering Online
+
+## GANs for lungs segmentation in Chest X-rays
+Chest X-ray procedures are considered to be the most popular for diagnosis of chest related diseases. We as a machine learning and medical imaging community, have seen extraordinary interest in the chest x-rays anlaysis and segmentation tasks. For any diagnosis on chest x-rays, accuracte segmentation of the biological object is fundamental. Here, we show how we can use Generative Adversarial Networks (GANs) to perform segmentation of lungs within chest x-rays. 
+The generator of the GAN generates a segmented mask of a given chest x-ray. Once the generator is trained to generate realistic looking masks, the GAN can now be used to perform segmentation of the lungs on new chest x-ray images.
+The full paper is available on IEEE Access ieeexplore.ieee.org/abstract/document/9171249
+
+## GANs for retinal images
+We propose a new Generative Adversarial Network for Medical Imaging (MI-GAN). The MI-GAN generates synthetic medical images and their segmented masks, which can then be used for the application of supervised analysis of medical images. This work presents MI-GAN for synthesis of retinal images. The MI-GAN method generates precise segmented retinal images better than the existing techniques. 
+Read about this work on Springer link.springer.com/article/10.1007/s10916-018-1072-9
+Read the book chapter on Springer link.springer.com/chapter/10.1007/978-3-030-40977-7_21
+
+# Urdu text processing (UTPro)
+## UHaT Data: Urdu Handwritten Text Dataset
+Urdu is the national language of Pakistan and one of the major languages of the world. Research on Urdu hand-written text processing has not been addressed before primarily due to lack of datasets and lack of baseline research. This project is aimed at: 
+- developing a freely available dataset of Urdu handwritten characters. The dataset developed so far comprises of isolated hand-written characters of Urdu, comprising of 1000 images per character.
+- Build a deep learning framework for recognition of the isolated words.
+
+Some related publication from this work is: https://arxiv.org/abs/1912.07943 OR  https://link.springer.com/article/10.1007%2Fs42452-019-1914-1
+The UHaT dataset can be obtained for free from kaggle https://www.kaggle.com/hazrat/uhat-urdu-handwritten-text-dataset
+
+​The UHaT dataset is now featured on the [IAPR Technical Committee 11 webpage](https://tc11.cvc.uab.es/datasets/UHaT_1). 
+
+> Acknowledgements: This works has been funded by the research grant 21-790/SRGP/R&D/HEC/2016 of Higher Education Commission Islamabad (HEC).
+
+## Urdu Speech Recognition
+Automatic Speech Recognition (ASR) has been a topic of interest for the last several decades. Today, ASR technology is widely used in our daily life as in Android/iOS devices as robust speech recognition frameworks are available for developed languages. However, for Urdu language, the research work is less developed. This project provides: 
+
+- A freely available speech corpus of Urdu isolated words. Currently, the corpus is consists of 250 words. In more refined form, a corpus of 100 words can be obtained for free use (available from download section of this website).
+- This work provides a suitable baseline approach based on extraction of Mel-frequency cepstral coefficients and then used for training speech recognition engine such as Hidden Markov Models. The results obtained thus are good baseline for further research work. Particular topic of interest is continuous speech recognition of Urdu.
+
+The dataset can be obtained for free from Kaggle (https://www.kaggle.com/datasets/hazrat/urdu-speech-dataset)
