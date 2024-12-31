@@ -81,7 +81,7 @@ profiles:
     more_info: >
       <p>Aiman Tahir</p>
   - align: left
-    image: ha.png
+    image: no-image-50.png
     content: about_rafiq.md
     image_circular: false # crops the image to make it circular
     more_info: >
