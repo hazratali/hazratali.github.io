@@ -13,7 +13,10 @@ nav_order: 3
 
 # Generative AI in Healthcare
 ## LLMs in Medical Imaging - An early investigation
-![LLMs for Medical Image Classification](https://hazratali.github.io/assets/img/sulaimangemini.jpg)
+
+<div style="text-align: center;">
+  <img src="https://hazratali.github.io/assets/img/sulaimangemini.jpg" alt="LLMs for Medical Image Classification" style="display: block; margin: auto; width: 750px; height: auto;">
+</div>
 
 There is a temptation to use generative models to synthesize realistic-looking medical image data, while on the other hand, the ability to identify synthetic image data in a pool of data is also significantly important. In this study, we explore the potential of the Gemini (gemini-1.0-pro-visionlatest) and GPT-4V (gpt-4-vision-preview) models for medical image analysis using two modalities of medical image data. Utilizing synthetic and real imaging data, both Gemini AI and GPT-4V are first used to classify real versus synthetic images, followed by an interpretation and analysis of the input images. In this specific experiment, Gemini was able to perform slightly better than the GPT-4V on the classification task. In contrast, responses associated with GPT-4V were mostly generic in nature. Our early investigation presented in this work provides insights into the potential of MLLMs to assist with the classification and interpretation of retinal fundoscopy and lung X-ray images. We also identify key limitations associated with the early investigation study on MLLMs for specialized tasks in medical image analysis.
 See relevant publications [here](https://ieeexplore.ieee.org/document/10703750)
