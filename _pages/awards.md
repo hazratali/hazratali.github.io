@@ -2,21 +2,67 @@
 layout: page
 permalink: /awards/
 title: Awards
-description: Various Awards and Recognitions. 
+description:  
 nav: false
 nav_order: 4
 ---
 
 
 
-## Selected Talks
+## Awards and Recognitions
 
-- **Invited Talk**: Revisiting the Pitfalls in AI, hosted by *SID Lab*, University of Engineering and Technology Peshawar, 18 December 2024. See [here](https://www.linkedin.com/posts/sidlabuet_seminar-recap-revisiting-the-pitfalls-in-activity-7275346643770626048-FmPq?utm_source=share&utm_medium=member_desktop) and [here](https://hazratali.github.io/blog/2024/talk-at-sidlab/). [Slides available here](https://hazratali.github.io/assets/pdf/slides_hazratali_pitfall_ai_uettalk.pdf)
-- **Invited Talk**: Beware of Generative AI in Healthcare Journalism, at *Tomorrow's News at Risk: Generative AI and Journalism* event, University of Stirling, UK, 21 November 2024. [Slides available here](https://hazratali.github.io/assets/pdf/slides_hazratali_stirling_journalism.pdf)
-- **Invited Talk**: Can AI generate medical image data with clinical value?, at [*Recent Advances in Computer Science & Information Technology (RACSIT 2024)*](https://dv.ue.edu.pk/racsit2024/), Lahore, Pakistan, 05 March 2024.
-- **Seminar Talk**: Generating Data for Medical AI – Beyond the Hype, at *Graduate Health Informatics Seminar*, hosted by Prof. Mowafa Househ, HBKU, Qatar, 31 August 2022.
-- **Invited Talk**: Deep Learning in Musculoskeletal Ultrasound Images, at the *Health Informatics Seminar Series*, St. John University, USA, 27 September 2021.
-- Discover Pakistan in 20 Minutes, at the annual planning days meeting of *MT-FoU*, Umea University, Sweden, October 2020.
-- **Seminar Talk**: Medical Image Data Augmentation using GANs, at *Medicinsk Teknik FoU*, Umea University, Sweden, hosted by AI @ MT-FoU Seminar Series, 27 May 2020. [Slides available here](https://www.slideshare.net/slideshow/medical-image-data-augmentation-using-gans/234868154#17)
-- **Seminar Talk**: Generative Adversarial Networks and Medical Imaging, at *Medicinsk Teknik FoU*, Umea University, Sweden, hosted by Dr. Christer Gronlund, January 2020.
-- **Invited Talk**: Deep Learning and the Rise of AI, at the *International Conference on Computational Science and Technologies (INCCST 2019)*, Mehran UET Jamshoro, 10–12 April 2019.
+- **[Best Researcher Awarded]**  
+  Best Researcher Award for research achievements - awarded by COMSATS University Islamabad, Abbottabad, 05 October 2021.  
+
+- **[DAAD AI-Net Fellowship]**  
+  Awarded the DAAD AI-Net Fellowship by DAAD (German Academic Exchange) for the 2021 AI Networking Tour, 13 - 17 September 2021.  
+
+- **[Postdoc Grant]**  
+  Awarded the Kempe Foundation Research Grant for Postdoc research at Umea University, Sweden - starting from January 2020.  
+
+- **[Intel Edge AI Scholarship]**  
+  Awarded the Intel Edge AI Scholarship for Intel AI foundation course on Udacity - starting from 16 December 2019.  
+
+- **[Best Poster Award]**  
+  Our research poster "Computer-aided diagnosis of Tuberculosis in Medical Images: Machine Learning to the rescue" won first prize for research poster competition at TechFest 2019, organized by the Department of Electrical and Computer Engineering, on 29th October 2019 at CUI Abbottabad Campus.  
+
+- **[Travel Grant]**  
+  Awarded travel grant by the Eastern European Machine Learning Summer School organized by Politehnica University of Bucharest, held from 1 - 6 July 2019 in Bucharest, Romania.  
+
+- **[Top 10 Research Pitch Award]**  
+  Our research pitch was selected for the Top 10 pitches award in a national-level competition, organized by the University of Queensland, Australia, and the University of Haripur, Pakistan.  
+
+- **[Travel Support Grant]**  
+  Awarded travel support grant by the Heidelberg Laureate Forum Foundation to attend HLF 2017, at Heidelberg, Germany.  
+
+- **[Ignite NGIRI Grant]**  
+  FYP grant of 75,000 PKR under the National Grassroot Research Initiative scheme, awarded by Ignite (formerly ICT R&D Fund) Pakistan.  
+  - **Project**: Recurrent Neural Network for EEG Signal Processing  
+  - **Supervisor**: Dr. Hazrat Ali  
+
+- **[HEC Research Grant]**  
+  Research grant worth 0.241 million PKR, awarded by the Higher Education Commission Pakistan.  
+  - **Project**: Urdu handwritten characters recognition  
+  - **PI**: Dr. Hazrat Ali  
+  - **Co-PI**: Prof. Shahid Khattak  
+
+- **[HEC Travel Grant]**  
+  Travel grant worth 0.27 million PKR for attending EANN 2016 conference in Aberdeen, UK.  
+
+- **[IEEE EMBS Student Travel Award]**  
+  Awarded IEEE Travel Award to attend the IEEE EMBS Summer School on Neural Engineering, held in Shanghai Jiaotong University, Shanghai, 13 - 19 July 2015.  
+
+- **[2nd Prize - USTB Excellent International Student Award]**  
+  Awarded 2nd prize for the session 2013/2014 by the University of Science and Technology Beijing, Beijing, China.  
+
+- **[Travel Grant by Erasmus Mundus StrongTies]**  
+  Funded by Erasmus Mundus StrongTies grant to attend Lisbon Machine Learning School at Instituto Superior Tecnico, Lisbon, Portugal, July 2014.  
+
+- **[QCRI/Boeing Travel Award]**  
+  Awarded (4 consecutive years) by Qatar Computing Research Institute & Boeing to attend and present research posters at the Machine Learning and Data Analytics Symposium (MLDAS) in 2014, 2015, 2016, and 2017 in Doha, Qatar.  
+
+- **[TERENA/CISCO Student Award]**  
+  Funded by TERENA to attend and present a research poster at the TERENA Networking Conference (TNC2013) in Maastricht, the Netherlands.  
+
+- **[HEC Scholarship]**  
+  Fully funded scholarship for the entire duration of PhD studies.
