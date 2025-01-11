@@ -27,9 +27,9 @@ He has authored more than 70 peer-reviewed articles published in top-tier intern
 ## Research Interests
 ```
 Generative Artificial Intelligence, Medical Artificial Intelligence, Machine Learning, Deep Learning. 
-
+```
 **Sub-areas and applications:**
-
+```
 Generative Adversarial Networks, Medical image segmentation, Medical image synthesis, Deep learning in ultrasound images, Features extraction from speech data, time-series data analysis, Data Science.
 ```
 
