@@ -25,11 +25,13 @@ Hazrat Ali is a Lecturer in Artificial Intelligence and Data Science at the Univ
 He has authored more than 70 peer-reviewed articles published in top-tier international journals and conferences including IEEE Transactions on Image Processing, Nature Scientific Reports, IEEE CVPR workshop, and NeurIPS workshops. He is the lead editor of the book **Advances in Deep Generative Models for Medical AI** published by Springer Nature. He is a senior member of IEEE, and a member of the Swedish AI Society. He serves as Associate Editor at IEEE and as Academic Editor at PeerJ Computer Science. He has served as session chair at Machine Intelligence and Signal Processing (MISP 2022). He has been the lead organizer of the 2021 NeurIPS meet-up in Doha, Qatar and the 2020 meet-up in Umea, Sweden. He is PC member at leading international conferences including IEEE International Conference on Artificial Intelligence ICAI 2024, IEEE CVPR Workshop on WiCV2024, and MICCAI. He has delivered invited talks at various national and international venues including St. John University New York USA, Biomedical Engineering R and D of Umea University Sweden, and International Conference on Computational Sciences and Technology (INCCST 2019). He was selected as a young researcher at the 5th Heidelberg Laureate Forum, Heidelberg, Germany. He is the recipient of the DAAD AI Networking Fellowship Germany 2021, the Best Researcher Award by COMSATS University (2020-2021), and the Kempe Foundation Sweden grant for postdoc research, the HEC PhD Scholarship, the scholarship grant by European Machine Learning school, the Top 10 research pitch award by the University of Queensland, Australia, IEEE Student Travel Award, the IBRO grant, the USTB excellent international student award, and the Erasmus Mundus STRoNGTiES research grant.
 
 ## Research Interests
+```
 Generative Artificial Intelligence, Medical Artificial Intelligence, Machine Learning, Deep Learning. 
 
 **Sub-areas and applications:**
 
 Generative Adversarial Networks, Medical image segmentation, Medical image synthesis, Deep learning in ultrasound images, Features extraction from speech data, time-series data analysis, Data Science.
+```
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
