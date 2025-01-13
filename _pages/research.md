@@ -38,6 +38,11 @@ Read about this work in [Nature Scientific Reports](https://www.nature.com/artic
 Advances in sports medicine, rehabilitation applications and diagnostics of neuromuscular disorders are based on the analysis of skeletal muscle contractions. Medical imaging techniques have transformed the study of muscle contractions by allowing to learn the complex patterns of muscle activation. We use deep learning (3D cycleGAN) to model the authentic intra-muscular skeletal muscle contraction pattern using domain-to-domain translation between in silico (simulated) and in vivo (experimental) image sequences of skeletal muscle contraction dynamics. Our results show that there are large differences between the spatial features of in silico and in vivo data, and that a model could be trained to generate authentic spatio-temporal features similar to those obtained from in vivo experimental data.
 Read about this work in [Biomedical Engineering Online](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-022-01016-4). Also read our work on Translation of atherosclerotic disease published in [Elsevier](https://www.sciencedirect.com/science/article/pii/S1746809423003191?via%3Dihub)
 
+<div style="text-align: center;">
+  <img src="https://hazratali.github.io/assets/img/translation3DCycleGAN.png" alt="Translations from in-silico to in-vivo" style="display: block; margin: auto; width: 700px; height: auto;">
+</div>
+
+
 ## GANs for lungs segmentation in Chest X-rays
 Chest X-ray procedures are considered to be the most popular for diagnosis of chest related diseases. We as a machine learning and medical imaging community, have seen extraordinary interest in the chest x-rays anlaysis and segmentation tasks. For any diagnosis on chest x-rays, accuracte segmentation of the biological object is fundamental. Here, we show how we can use Generative Adversarial Networks (GANs) to perform segmentation of lungs within chest x-rays. 
 The generator of the GAN generates a segmented mask of a given chest x-ray. Once the generator is trained to generate realistic looking masks, the GAN can now be used to perform segmentation of the lungs on new chest x-ray images.
