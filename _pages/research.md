@@ -53,6 +53,8 @@ Read about this work in [Biomedical Engineering Online](https://biomedical-engin
 ## Translation of atherosclerotic disease using CycleGAN
 Read more about Translation of atherosclerotic disease published in [Elsevier](https://www.sciencedirect.com/science/article/pii/S1746809423003191?via%3Dihub)
 
+---
+
 ## GANs for lungs segmentation in Chest X-rays
 Chest X-ray procedures are considered to be the most popular for diagnosis of chest related diseases. We as a machine learning and medical imaging community, have seen extraordinary interest in the chest x-rays anlaysis and segmentation tasks. For any diagnosis on chest x-rays, accuracte segmentation of the biological object is fundamental. Here, we show how we can use Generative Adversarial Networks (GANs) to perform segmentation of lungs within chest x-rays. 
 The generator of the GAN generates a segmented mask of a given chest x-ray. Once the generator is trained to generate realistic looking masks, the GAN can now be used to perform segmentation of the lungs on new chest x-ray images.
@@ -62,6 +64,8 @@ The full paper is available on [IEEE Access](https://ieeexplore.ieee.org/abstrac
 We propose a new Generative Adversarial Network for Medical Imaging (MI-GAN). The MI-GAN generates synthetic medical images and their segmented masks, which can then be used for the application of supervised analysis of medical images. This work presents MI-GAN for synthesis of retinal images. The MI-GAN method generates precise segmented retinal images better than the existing techniques. 
 Read about this work on Springer link.springer.com/article/10.1007/s10916-018-1072-9
 Read the book chapter on Springer link.springer.com/chapter/10.1007/978-3-030-40977-7_21
+
+---
 
 # Urdu text processing (UTPro)
 ## UHaT Data: Urdu Handwritten Text Dataset
@@ -76,6 +80,8 @@ The **UHaT dataset** can be obtained for free from Kaggle https://www.kaggle.com
 ​The UHaT dataset is now featured on the [IAPR Technical Committee 11 webpage](https://tc11.cvc.uab.es/datasets/UHaT_1). 
 
 > Acknowledgements: This works has been funded by the research grant 21-790/SRGP/R&D/HEC/2016 of Higher Education Commission Islamabad (HEC).
+
+---
 
 ## Urdu Speech Recognition
 Automatic Speech Recognition (ASR) has been a topic of interest for the last several decades. Today, ASR technology is widely used in our daily life as in Android/iOS devices as robust speech recognition frameworks are available for developed languages. However, for Urdu language, the research work is less developed. This project provides: 
