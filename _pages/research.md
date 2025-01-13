@@ -76,7 +76,7 @@ Advances in sports medicine, rehabilitation applications and diagnostics of neur
 </div>
 
 ## Translation of atherosclerotic disease using CycleGAN
-> Read more about Translation of atherosclerotic disease published in [Elsevier](https://www.sciencedirect.com/science/article/pii/S1746809423003191?via%3Dihub)
+> Read more about translation of atherosclerotic disease published in [Elsevier](https://www.sciencedirect.com/science/article/pii/S1746809423003191?via%3Dihub)
 
 ---
 
@@ -87,9 +87,9 @@ The generator of the GAN generates a segmented mask of a given chest x-ray. Once
 
 ## GANs for retinal images
 We propose a new Generative Adversarial Network for Medical Imaging (MI-GAN). The MI-GAN generates synthetic medical images and their segmented masks, which can then be used for the application of supervised analysis of medical images. This work presents MI-GAN for synthesis of retinal images. The MI-GAN method generates precise segmented retinal images better than the existing techniques. 
-> Read about this work on Springer link.springer.com/article/10.1007/s10916-018-1072-9
+> Read about this work in [Springer NCA](link.springer.com/article/10.1007/s10916-018-1072-9)
 
-> Read the book chapter on Springer link.springer.com/chapter/10.1007/978-3-030-40977-7_21
+> Read the book chapter on [Springer](springer.com/chapter/10.1007/978-3-030-40977-7_21)
 
 ---
 
