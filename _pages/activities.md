@@ -30,6 +30,7 @@ nav_order: 4
 
 - **Moderator and Host** (since September 2022) Health Informatics Research Clinic. [Read more here](https://alihazrat.medium.com/health-informatics-research-clinic-66f731b45bf9)
 - **Lead Guest Editor**, AI journal, special issue on [Multimodal Artificial Intelligence in Healthcare](https://www.mdpi.com/journal/ai/special_issues/5649465XRZ).
+- **Associate Editor** (since Dec 2024), Nature Scientific Reports
 - **Associate Editor** (since March 2018), IEEE Access
 - **Academic Editor** (since 2020), PeerJ Computer Science journal
 - **Associate Editor** (since April 2021), IEEE Technology Policy and Ethics Newsletter
