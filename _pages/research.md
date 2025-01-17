@@ -99,13 +99,13 @@ Urdu is the national language of Pakistan and one of the major languages of the 
 - developing a freely available dataset of Urdu handwritten characters. The dataset developed so far comprises of isolated hand-written characters of Urdu, comprising of 1000 images per character.
 - Build a deep learning framework for recognition of the isolated words.
 
-Some related publication from this work is: https://arxiv.org/abs/1912.07943 OR  https://link.springer.com/article/10.1007%2Fs42452-019-1914-1
-
 The **UHaT dataset** can be obtained for free from [Kaggle](https://www.kaggle.com/hazrat/uhat-urdu-handwritten-text-dataset)
 
 ​The UHaT dataset is now featured on the [IAPR Technical Committee 11 webpage](https://tc11.cvc.uab.es/datasets/UHaT_1). 
 
 > Acknowledgements: This works has been funded by the research grant 21-790/SRGP/R&D/HEC/2016 of Higher Education Commission Islamabad (HEC).
+
+> Read more about this work in [Springer](https://link.springer.com/article/10.1007/s42452-019-1914-1)
 
 ---
 
