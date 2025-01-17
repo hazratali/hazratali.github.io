@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Lead co-chair**: I am chairing and organizing [Workshop on Foundation AI Models in Biomedical Imaging](https://hazratali.github.io/faibi2025/) at the [2025 IEEE International Symposium on Biomedical Imaging, Houston, Texas, USA](https://biomedicalimaging.org/2025/)
+**Lead co-chair**: I am chairing and organizing [Workshop on Foundation AI Models in Biomedical Imaging](https://hazratali.github.io/faibi2025/) at the [2025 IEEE International Symposium on Biomedical Imaging](https://biomedicalimaging.org/2025/), Houston, Texas, USA.
