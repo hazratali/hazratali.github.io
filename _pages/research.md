@@ -87,9 +87,9 @@ The generator of the GAN generates a segmented mask of a given chest x-ray. Once
 
 ## GANs for retinal images
 We propose a new Generative Adversarial Network for Medical Imaging (MI-GAN). The MI-GAN generates synthetic medical images and their segmented masks, which can then be used for the application of supervised analysis of medical images. This work presents MI-GAN for synthesis of retinal images. The MI-GAN method generates precise segmented retinal images better than the existing techniques. 
-> Read about this work in [Springer NCA](link.springer.com/article/10.1007/s10916-018-1072-9)
+> Read about this work in [Springer NCA](https://link.springer.com/article/10.1007/s10916-018-1072-9)
 
-> Read the book chapter on [Springer](springer.com/chapter/10.1007/978-3-030-40977-7_21)
+> Read the book chapter on [Springer](https://link.springer.com/chapter/10.1007/978-3-030-40977-7_21)
 
 ---
 
@@ -115,4 +115,4 @@ Automatic Speech Recognition (ASR) has been a topic of interest for the last sev
 - A freely available speech corpus of Urdu isolated words. Currently, the corpus consists of 250 words. In more refined form, a corpus of 100 words can be obtained for free use (available from download section of this website).
 - This work provides a suitable baseline approach based on extraction of Mel-frequency cepstral coefficients and then used for training speech recognition engine such as Hidden Markov Models. The results obtained thus are good baseline for further research work. Particular topic of interest is continuous speech recognition of Urdu.
 
-The dataset can be obtained for free from Kaggle (https://www.kaggle.com/datasets/hazrat/urdu-speech-dataset)
+The dataset can be obtained for free from [Kaggle](https://www.kaggle.com/datasets/hazrat/urdu-speech-dataset)
