@@ -76,14 +76,14 @@ Advances in sports medicine, rehabilitation applications and diagnostics of neur
 </div>
 
 ## Translation of atherosclerotic disease using CycleGAN
-> Read more about translation of atherosclerotic disease published in [Elsevier](https://www.sciencedirect.com/science/article/pii/S1746809423003191?via%3Dihub)
+> Read more about translation of atherosclerotic disease published in [Elsevier](https://www.sciencedirect.com/science/article/pii/S1746809423003191)
 
 ---
 
 ## GANs for lungs segmentation in Chest X-rays
 Chest X-ray procedures are considered to be the most popular for diagnosis of chest related diseases. We as a machine learning and medical imaging community, have seen extraordinary interest in the chest x-rays anlaysis and segmentation tasks. For any diagnosis on chest x-rays, accuracte segmentation of the biological object is fundamental. Here, we show how we can use Generative Adversarial Networks (GANs) to perform segmentation of lungs within chest x-rays. 
 The generator of the GAN generates a segmented mask of a given chest x-ray. Once the generator is trained to generate realistic looking masks, the GAN can now be used to perform segmentation of the lungs on new chest x-ray images.
-> The full paper is available on [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9171249)
+> The full paper is available on [IEEE Access](https://ieeexplore.ieee.org/document/9171249)
 
 ## GANs for retinal images
 We propose a new Generative Adversarial Network for Medical Imaging (MI-GAN). The MI-GAN generates synthetic medical images and their segmented masks, which can then be used for the application of supervised analysis of medical images. This work presents MI-GAN for synthesis of retinal images. The MI-GAN method generates precise segmented retinal images better than the existing techniques. 
