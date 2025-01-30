@@ -73,6 +73,8 @@ nav_order: 4
 
 ### Professional Activities - Conferences  
 
+- **Lead co-chair**: [Special Session on Multimodal Generative AI in Healthcare](https://aiih.cc/mmgenaihealth/) at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), in Cambridge, UK.
+- **Lead co-chair**: [Special Session on AI in Surgery](https://hazratali.github.io/aisur/) at the 2025 Conference on Medical Image Understanding and Analysis, MIUA 2025, in Leeds, UK. [Website](https://conferences.leeds.ac.uk/miua/)
 - **Area Chair**: 2025 IEEE International Joint Conference on Neural Networks, Rome, Italy. [Website](https://2025.ijcnn.org/) 
 - **Lead co-chair**: [Workshop on Foundation AI Models in Biomedical Imaging](https://hazratali.github.io/faibi2025/) at 2025 IEEE International Symposium on Biomedical Imaging, Houston, Texas, USA. [Website](https://biomedicalimaging.org/2025/)
 - **PC Chair**: Second International Conference on Forthcoming Networks and Sustainability in the AIoT Era, May 2025, Istanbul, Turkey [Website](https://fones-aiot.sci-conf.com/) 
