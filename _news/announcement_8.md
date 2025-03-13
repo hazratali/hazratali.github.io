@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Lead co-chair**: I am chairing and organizing [pecial Session on Multimodal Generative AI in Healthcare](https://aiih.cc/mmgenaihealth/) at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), in Cambridge, UK.
+**Lead co-chair**: I am chairing and organizing [Special Session on Multimodal Generative AI in Healthcare](https://aiih.cc/mmgenaihealth/) at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), in Cambridge, UK.
