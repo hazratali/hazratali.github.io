@@ -1,4 +1,4 @@
-## Jamie Clement
+## Jamie Clements
 
 Thesis title:
 **LLMs for Surgical Video Analysis**
