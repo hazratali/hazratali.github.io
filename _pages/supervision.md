@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /supervision/
 title: Supervision
-description: Students supervised
+description: Students supervised - names appear in no specific order
 nav: true
 nav_order: 7
 
