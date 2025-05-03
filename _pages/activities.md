@@ -9,6 +9,7 @@ nav_order: 4
 
 ## Selected Talks
 
+- **Contributed Talk**: Rethinking Assessments, at the CoCoNet workshop, hosted by *Prof. Steve Riddle and Dr. Mark Zarb*, University of Newcastle, 25 April 2025. 
 - **Invited Talk**: Revisiting the Pitfalls in AI, hosted by *SID Lab*, University of Engineering and Technology Peshawar, 18 December 2024. See [here](https://www.linkedin.com/posts/sidlabuet_seminar-recap-revisiting-the-pitfalls-in-activity-7275346643770626048-FmPq?utm_source=share&utm_medium=member_desktop) and [here](https://hazratali.github.io/blog/2024/talk-at-sidlab/). [Slides available here](https://hazratali.github.io/assets/pdf/slides_hazratali_pitfall_ai_uettalk.pdf)
 - **Invited Talk**: Beware of Generative AI in Healthcare Journalism, at *Tomorrow's News at Risk: Generative AI and Journalism* event, University of Stirling, UK, 21 November 2024. [Slides available here](https://hazratali.github.io/assets/pdf/slides_hazratali_stirling_journalism.pdf)
 - **Invited Talk**: Can AI generate medical image data with clinical value?, at [*Recent Advances in Computer Science & Information Technology (RACSIT 2024)*](https://dv.ue.edu.pk/racsit2024/), Lahore, Pakistan, 05 March 2024.
