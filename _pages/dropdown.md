@@ -17,6 +17,8 @@ children:
     permalink: /blog/
   - title: Awards
     permalink: /awards/
+  - title: Talks
+    permalink: /talks/
   - title: News
     permalink: /news/
 ---
