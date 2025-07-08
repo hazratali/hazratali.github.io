@@ -11,12 +11,14 @@ nav_order: 4
 
 - **Moderator and Host** (since September 2022) Health Informatics Research Clinic. [Read more here](https://alihazrat.medium.com/health-informatics-research-clinic-66f731b45bf9)
 - **Lead Guest Editor**, AI journal, special issue on [Multimodal Artificial Intelligence in Healthcare](https://www.mdpi.com/journal/ai/special_issues/5649465XRZ).
+- **Associate Editor** (since June 2025), Wiley Applied AI Letters
 - **Associate Editor** (since Dec 2024), Nature Scientific Reports
 - **Associate Editor** (since March 2018), IEEE Access
 - **Academic Editor** (since 2020), PeerJ Computer Science journal
 - **Associate Editor** (since April 2021), IEEE Technology Policy and Ethics Newsletter
 - **Guest editor**, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Radiology, [Recent Advances in Multimodal Artificial Intelligence for Disease Diagnosis, Prognosis, and Prevention](https://www.frontiersin.org/research-topics/50539/recent-advances-in-multimodal-artificial-intelligence-for-disease-diagnosis-prognosis-and-prevention/magazine)
 - **Academic Editor** (since April 2023), IET Software
+- **Expert evaluator** (2025), Evaluator of Research Proposals at[NIHR](https://www.nihr.ac.uk/), Advanced Fellowship of the National Institute for Health and Care Research, UK. 
 - **Expert evaluator** (2023-2024), Evaluator of Research Grant Proposals at [SyMeCo](https://symeco.lero.ie/), a Marie Skłodowska-Curie fellowship at **LERO** - the Science Foundation Ireland Research Centre for Software.
 
 ### Professional Activities - Journals  
