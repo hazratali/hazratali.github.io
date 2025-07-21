@@ -7,14 +7,14 @@ nav: true
 nav_order: 6
 ---
 
-# At University of Stilring
+## At University of Stirling
 - Computer Vision - Spring 2026 (upcoming) 
 - Introduction to Machine Learning - Autumn 2025
 - Relational and non-relational Databases, Postgraduate module - Spring 2025
 - Data Strategy, Postgraduate module - Spring 2025
 - Introduction to Machine Learning - Autumn 2024
 
-# At COMSATS University
+## At COMSATS University
 - Digital Signal Processing - Fall 2019
 - Machine Learning (Graduate Course) - Spring 2019
 - Signals and Systems  - Spring 2018
