@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conference in Cambridge
+title: Chairing session at AIiH Conference in Cambridge
 date: 2025-08-13 19:05:00-0400
 inline: false
 related_posts: false
