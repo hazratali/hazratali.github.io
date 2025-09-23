@@ -16,6 +16,14 @@ profiles:
     more_info: >
       <p>Jamie Clements</p>
       <p>University of Stirling</p>
+  - align: left
+    image: prof_faizan.jpg
+    content: about_faizan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Faizan Munawar</p>
+      <p>Atlantic Technological University</p>
+      <p>Ireland</p>
   - align: right
     image: prof_talhaiqbal.png
     content: about_talha.md
@@ -50,14 +58,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Mehreen Mubashir</p>
-  - align: left
-    image: prof_faizan.jpg
-    content: about_faizan.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Faizan Munawar</p>
-      <p>Atlantic Technological University</p>
-      <p>Ireland</p>
   - align: right
     image: prof_owaisali.jpg
     content: about_owaisali.md
