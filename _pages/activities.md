@@ -9,7 +9,6 @@ nav_order: 4
 
 ## Editorial Activities
 
-- **Moderator and Host** (since September 2022) Health Informatics Research Clinic. [Read more here](https://alihazrat.medium.com/health-informatics-research-clinic-66f731b45bf9)
 - **Lead Guest Editor**, AI journal, special issue on [Multimodal Artificial Intelligence in Healthcare](https://www.mdpi.com/journal/ai/special_issues/5649465XRZ).
 - **Associate Editor** (since June 2025), Wiley Applied AI Letters
 - **Associate Editor** (since Dec 2024), Nature Scientific Reports
@@ -18,6 +17,8 @@ nav_order: 4
 - **Associate Editor** (since April 2021), IEEE Technology Policy and Ethics Newsletter
 - **Guest editor**, Frontiers in Artificial Intelligence, Frontiers in Big Data, Frontiers in Radiology, [Recent Advances in Multimodal Artificial Intelligence for Disease Diagnosis, Prognosis, and Prevention](https://www.frontiersin.org/research-topics/50539/recent-advances-in-multimodal-artificial-intelligence-for-disease-diagnosis-prognosis-and-prevention/magazine)
 - **Academic Editor** (since April 2023), IET Software
+- **Moderator and Host** (since September 2022) Health Informatics Research Clinic. [Read more here](https://alihazrat.medium.com/health-informatics-research-clinic-66f731b45bf9)
+- **Expert evaluator** (2025), Evaluator of Research Proposals at [Horizon Europe](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), Marie Curie Postdoc Fellowship (MSCA-PF), Europe. 
 - **Expert evaluator** (2025), Evaluator of Research Proposals at[NIHR](https://www.nihr.ac.uk/), Advanced Fellowship of the National Institute for Health and Care Research, UK. 
 - **Expert evaluator** (2023-2024), Evaluator of Research Grant Proposals at [SyMeCo](https://symeco.lero.ie/), a Marie Skłodowska-Curie fellowship at **LERO** - the Science Foundation Ireland Research Centre for Software.
 
@@ -69,6 +70,7 @@ nav_order: 4
 - **Reviewer Mentor**: Machine Learning for Health Symposium 2023, New Orleans, United States, 10 December 2023  
 - **Reviewer Mentor**: Machine Learning for Health Symposium 2022, New Orleans, United States, 28 November 2022  
 - **Reviewer Mentor**: Machine Learning for Health Symposium 2021  
+- **PC Member/Reviewer**: CVPR Workshop WiCV 2025, Nashville TN, USA.
 - **PC Member**: European Conference on Artificial Intelligence, ECAI 2025, Bologna, Italy.  
 - **PC Member**: IEEE International Symposium on Biomedical Imaging (ISBI 2025), Texas, USA  
 - **PC Member**: Medical Imaging with Deep Learning (MIDL 2025), Salt Lake City, USA  
