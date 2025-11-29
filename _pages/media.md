@@ -10,7 +10,7 @@ nav_order: 6
 
 # Quanta Magazine
 ## Our work on diffusion models for generating lung X-ray and CT is featured on Quanta Magazine. 
-> Read the article on [www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/](www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/)
+> Read the article on [www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/](https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/)
 
 # European Society of Radilogy AI Blog
 ## Our blog post "The role of generative adversarial networks in brain MRI" is featured on European Society of Radiology AI blog 
