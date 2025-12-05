@@ -70,7 +70,8 @@ nav_order: 4
 - **Reviewer Mentor**: Machine Learning for Health Symposium 2023, New Orleans, United States, 10 December 2023  
 - **Reviewer Mentor**: Machine Learning for Health Symposium 2022, New Orleans, United States, 28 November 2022  
 - **Reviewer Mentor**: Machine Learning for Health Symposium 2021  
-- **PC Member/Reviewer**: CVPR Workshop WiCV 2025, Nashville TN, USA.
+- **PC Member**: The IEEE International Symposium on Biomedical Imaging, ISBI 2026, London, UK.
+- **PC Member**: CVPR Workshop WiCV 2025, Nashville TN, USA.
 - **PC Member**: European Conference on Artificial Intelligence, ECAI 2025, Bologna, Italy.  
 - **PC Member**: IEEE International Symposium on Biomedical Imaging (ISBI 2025), Texas, USA  
 - **PC Member**: Medical Imaging with Deep Learning (MIDL 2025), Salt Lake City, USA  
