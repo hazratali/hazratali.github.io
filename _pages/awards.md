@@ -11,6 +11,10 @@ nav_order: 4
 
 ## Awards and Recognitions
 
+
+- **[Travel Grant]**  
+  Awarded travel grant by UKOMAIN, the UK Multimodal AI Network - an EPSRC funded network, for participation in the [Third Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai25/), held 16-17 September 2025, London, UK. 
+
 - **[Best Researcher Awarded]**  
   Best Researcher Award for research achievements - awarded by COMSATS University Islamabad, Abbottabad, 05 October 2021.  
 
