@@ -9,14 +9,7 @@ nav_order: 4
 
 
 
-## Selected Talks
-
-- **Seminar Talk**: From Super-Resolution to Disease Transformation: A Bird's-Eye View of Generative AI in Medical Imaging, at CSM Monthly seminar series, 3 October 2025. Hosted by CSM, The University of Stirling, UK.
-- **Short Talk**: From Pixels to Procedures: Structured Surgical Understanding via Multimodal Large Language Models, at the UK Multimodal AI Workshop in London, 17 September 2025. Talk video on [UKOMAIN Youtube](https://www.youtube.com/watch?v=d6iLLSmr71s)
-- **Invited Talk**: Safeguarding Academic Integrity in the age of Generative AI, at the International Two-Day Conference on The Evolution of AI: Myths, Threats, Opportunities and the Future for HEIs, hosted by University of Engineering and Technology Mardan, 13-14 September 2025. (invited by Vice Chancellor, UET Mardan) [Slides available here](/assets/pdf/ali_slides_safeguarding_uet_sep2025.pdf) 
-
-
-<!-- ## A plain list of papers
+## A plain list of papers
   - [Table of Contents](#table-of-contents)
   - [Books and Book Chapters](#books)
   - [Journals and Magazines](#journals)
@@ -54,4 +47,4 @@ paper 1
 paper 2
 
 paper 3
-</details> -->
+</details>
