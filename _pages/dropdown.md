@@ -21,4 +21,6 @@ children:
     permalink: /talks/
   - title: News
     permalink: /news/
+  - title: List of Papers
+    permalink: /paperslist/
 ---
