@@ -9,7 +9,6 @@ nav_order: 10
 
 
 ## A plain list of papers
-- [A plain list of papers](#list of papers)
   - [Table of Contents](#table-of-contents)
   - [Books and Book Chapters](#books)
   - [Journals and Magazines](#journals)
