@@ -4,9 +4,11 @@ permalink: /papers/
 title: List of Papers
 description:  
 nav: false
-nav_order: 4
+nav_order: 10
 ---
 
+
+## A plain list of papers
 - [A plain list of papers](#list of papers)
   - [Table of Contents](#table-of-contents)
   - [Books and Book Chapters](#books)
