@@ -9,6 +9,13 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: right
+    image: prof_ovie.jpg
+    content: about_ovie.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Oviemuno Imara</p>
+      <p>University of Stirling</p>
   - align: left
     image: prof_jamie.jpg
     content: about_jamie.md
@@ -16,7 +23,7 @@ profiles:
     more_info: >
       <p>Jamie Clements</p>
       <p>University of Stirling</p>
-  - align: left
+  - align: right
     image: prof_faizan.jpg
     content: about_faizan.md
     image_circular: false # crops the image to make it circular
@@ -24,7 +31,7 @@ profiles:
       <p>Faizan Munawar</p>
       <p>Atlantic Technological University</p>
       <p>Ireland</p>
-  - align: right
+  - align: left
     image: prof_talhaiqbal.png
     content: about_talha.md
     image_circular: false # crops the image to make it circular
@@ -32,18 +39,12 @@ profiles:
       <p>Talha Iqbal</p>
       <p>University of Galway</p>
       <p>Ireland</p>
-  - align: left
-    image: prof_ahsan.jpg
-    content: about_ahsan.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Ahsan Ullah</p>
   - align: right
-    image: prof_nasir.jpg
-    content: about_nasir.md
+    image: no-image-50.png
+    content: about_mehreen.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Nasir Khan</p>
+      <p>Mehreen Mubashir</p>
   - align: left
     image: prof_muneeb.jpg
     content: about_muneeb.md
@@ -53,11 +54,17 @@ profiles:
       <p>Munster Technological University</p>
       <p>Ireland</p>
   - align: right
-    image: no-image-50.png
-    content: about_mehreen.md
+    image: prof_ahsan.jpg
+    content: about_ahsan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Mehreen Mubashir</p>
+      <p>Ahsan Ullah</p>
+  - align: left
+    image: prof_nasir.jpg
+    content: about_nasir.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Nasir Khan</p>
   - align: right
     image: prof_owaisali.jpg
     content: about_owaisali.md
