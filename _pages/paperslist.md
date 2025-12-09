@@ -1,11 +1,12 @@
 ---
 layout: page
 permalink: /papers/
-title: PapersList
+title: Papers
 description:  
 nav: false
 nav_order: 4
 ---
+
 
 
 <!-- ## A plain list of papers
@@ -47,9 +48,6 @@ paper 2
 
 paper 3
 </details> -->
-
-
-
 ## Selected Talks
 
 - **Seminar Talk**: From Super-Resolution to Disease Transformation: A Bird's-Eye View of Generative AI in Medical Imaging, at CSM Monthly seminar series, 3 October 2025. Hosted by CSM, The University of Stirling, UK.

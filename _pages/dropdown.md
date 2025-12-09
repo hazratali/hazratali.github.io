@@ -20,6 +20,6 @@ children:
     permalink: /talks/
   - title: News
     permalink: /news/
-  - title: PapersList
+  - title: Papers
     permalink: /paperslist/
 ---
