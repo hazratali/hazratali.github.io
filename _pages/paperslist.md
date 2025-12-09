@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /papers/
-title: List of Papers
+title: PapersList
 description:  
 nav: false
-nav_order: 10
+nav_order: 9
 ---
 
 
