@@ -24,7 +24,6 @@ ISBN: 978-3-031-46340-2
 More details on https://medicalai.weebly.com/
 
 ## Book Chapters
-<details>
 
 1. Nasir Khan, Hazrat Ali, Shakaib Iqbal, Arafat Yameen, Christer Grönlund, 2023. Detection of Tuberculosis in Microscopy Images Using Mask Region Convolutional Neural Network. In Computational Intelligence in Image and Video Processing (pp. 175-187). Chapman and Hall/CRC. ISBN: 9781003218111
 doi: 10.1201/9781003218111
@@ -40,7 +39,6 @@ doi: 10.3233/SHTI220699.
 doi: 10.3233/SHTI210911
 1. Iqbal T., Ali H. (2020) Generative Adversarial Network and Retinal Image Segmentation. In: Oliva D., Hinojosa S. (eds) Applications of Hybrid Metaheuristic Algorithms for Image Processing. Studies in Computational Intelligence, vol 890. Springer, Cham, 28 March 2020. 
 doi: 10.1007/978-3-030-40977-7_21
-</details>
 
 ## Journals
 
@@ -59,6 +57,16 @@ doi: 10.1109/ACCESS.2024.3445288 [IF: 3.4]
 doi:10.1080/23311916.2024.2344452. [IF: 1.9]
 1. Anas Zafar, Danyal Aftab, Rizwan Qureshi, Xinqi Fan, Pingjun Chen, Jia Wu, Hazrat Ali, Shah Nawaz, Sheheryar Khan and Mubarak Shah, Single Stage Adaptive Multi-Attention Network for Image Restoration, IEEE Transactions on Image Processing, vol. 33, April 2024. pp. 2924-2935
 Doi: 10.1109/TIP.2024.3384838 [IF: 10.1]
+1.	(EDITORIAL) Hazrat Ali, Zubair Shah, Tanvir Alam, Priyantha Wijayatunga, Eyad Elyan, Recent Advances in Multimodal Artificial Intelligence for Disease Diagnosis, Prognosis, and Prevention. Frontiers in Radiology.;3:1349830, December 2023.
+Doi: 10.3389/fradi.2023.1349830
+1.	Abd-Alrazaq A, Nashwan AJ, Shah Z, Abujaber A, Alhuwail D, Schneider J, AlSaad R, Hazrat Ali, Alomoush W, Ahmed A, Aziz S. Machine Learning–Based Approach for Identifying Research Gaps: COVID-19 as a Case Study. JMIR Formative Research. 2024 Mar 5;8(1):e49411. Doi: 10.2196/49411 [IF: 2.2]
+1.	Hazrat Ali, Rizwan Qureshi, Zubair Shah, Artificial Intelligence–Based Methods for Integrating Local and Global Features for Brain Cancer Imaging: Scoping Review, JMIR Med Inform 2023;11:e47445, November 2023
+doi: 10.2196/47445 [IF:3.2]
+1.	Siam A, Alsaify AR, Mohammad B, Biswas MR, Hazrat Ali, Zubair Shah. Multimodal Deep Learning for Liver Cancer Applications: A Scoping Review. Frontiers in Artificial Intelligence. Volume 6:1247195, October 2023.
+Doi: 10.3389/frai.2023.1247195 [IF4.0]
+1.	Hazrat Ali*, Farida Mohsen, Zubair Shah*. Improving diagnosis and prognosis of lung cancer using vision transformers: a scoping review. BMC Med Imaging 23, 129, September 2023.
+Doi: 10.1186/s12880-023-01098-z [IF:2.7]
+
 
 ## Conference proceedings
 
