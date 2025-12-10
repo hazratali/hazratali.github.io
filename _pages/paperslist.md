@@ -31,31 +31,31 @@ More details on https://medicalai.weebly.com/
 <details>
       <summary>Click to expand for Books and book chapters</summary>
       
-1. Nasir Khan, Hazrat Ali, Shakaib Iqbal, Arafat Yameen, Christer Grönlund, 2023. Detection of Tuberculosis in Microscopy Images Using Mask Region Convolutional Neural Network. In Computational Intelligence in Image and Video Processing (pp. 175-187). Chapman and Hall/CRC. ISBN: 9781003218111
+- Nasir Khan, Hazrat Ali, Shakaib Iqbal, Arafat Yameen, Christer Grönlund, 2023. Detection of Tuberculosis in Microscopy Images Using Mask Region Convolutional Neural Network. In Computational Intelligence in Image and Video Processing (pp. 175-187). Chapman and Hall/CRC. ISBN: 9781003218111
 doi: 10.1201/9781003218111
 
 
-1. SK. Shalauddin Kabir, Mohammad Farhad Bulbul, Fee Faysal Ahmed, Syed Galib, and Hazrat Ali, A Deep Learning Approach for Covid-19 Detection in Chest X-Rays, In Computer Vision and Image Analysis for Industry 4.0 2023 Jun 12 (pp. 120-137). Chapman and Hall/CRC. 
+- SK. Shalauddin Kabir, Mohammad Farhad Bulbul, Fee Faysal Ahmed, Syed Galib, and Hazrat Ali, A Deep Learning Approach for Covid-19 Detection in Chest X-Rays, In Computer Vision and Image Analysis for Industry 4.0 2023 Jun 12 (pp. 120-137). Chapman and Hall/CRC. 
 ISBN: 9781032164168 
 
 
-1. Hazrat Ali, Tanvir Alam, Mowafa Househ, Zubair Shah, Federated Learning and Internet of Medical Things - Opportunities and Challenges, Studies in Health Technology and Informatics, Volume 295: Advances in Informatics, Management and Technology in Healthcare, June 2022, pp. 201 – 204.
+- Hazrat Ali, Tanvir Alam, Mowafa Househ, Zubair Shah, Federated Learning and Internet of Medical Things - Opportunities and Challenges, Studies in Health Technology and Informatics, Volume 295: Advances in Informatics, Management and Technology in Healthcare, June 2022, pp. 201 – 204.
 doi: 10.3233/SHTI220697 
 
 
-1. Farida Mohsen, Biswas MR, Hazrat Ali, Tanvir Alam, Mowafah Househ, Zubair Shah. Customized and Automated Machine Learning-Based Models for Diabetes Type 2 Classification. Studies in Health Technology and Informatics, Volume 295: Advances in Informatics, Management and Technology in Healthcare, Jun 29;295:517-520. 
+- Farida Mohsen, Biswas MR, Hazrat Ali, Tanvir Alam, Mowafah Househ, Zubair Shah. Customized and Automated Machine Learning-Based Models for Diabetes Type 2 Classification. Studies in Health Technology and Informatics, Volume 295: Advances in Informatics, Management and Technology in Healthcare, Jun 29;295:517-520. 
 doi: 10.3233/SHTI220779
 
 
-1. Uzair Shah, Hazrat Ali, Tanvir Alam, Mowafa Househ, Zubair Shah. Artificial Intelligence-Based Models for Predicting Vaccines Critical Tweets: An Experimental Study. Volume 295: Advances in Informatics, Management and Technology in Healthcare, June 2022 Jun 29;295:209-212. 
+- Uzair Shah, Hazrat Ali, Tanvir Alam, Mowafa Househ, Zubair Shah. Artificial Intelligence-Based Models for Predicting Vaccines Critical Tweets: An Experimental Study. Volume 295: Advances in Informatics, Management and Technology in Healthcare, June 2022 Jun 29;295:209-212. 
 doi: 10.3233/SHTI220699.
 
 
-1. Uzair Shah, Md. Rafuil Biswas, Mahmood Saleh Alzubaidi, Hazrat Ali, Tanvir Alam, Mowafa Househ, Zubair Shah, Recent Developments in Artificial Intelligence-Based Techniques for Prostate Cancer Detection: A Scoping Review, Studies in Health Technology and Informatics, Informatics and Technology in Clinical Care and Public Health, January 2022, pp. 268 – 271. 
+- Uzair Shah, Md. Rafuil Biswas, Mahmood Saleh Alzubaidi, Hazrat Ali, Tanvir Alam, Mowafa Househ, Zubair Shah, Recent Developments in Artificial Intelligence-Based Techniques for Prostate Cancer Detection: A Scoping Review, Studies in Health Technology and Informatics, Informatics and Technology in Clinical Care and Public Health, January 2022, pp. 268 – 271. 
 doi: 10.3233/SHTI210911
 
 
-1. Iqbal T., Ali H. (2020) Generative Adversarial Network and Retinal Image Segmentation. In: Oliva D., Hinojosa S. (eds) Applications of Hybrid Metaheuristic Algorithms for Image Processing. Studies in Computational Intelligence, vol 890. Springer, Cham, 28 March 2020. 
+- Iqbal T., Ali H. (2020) Generative Adversarial Network and Retinal Image Segmentation. In: Oliva D., Hinojosa S. (eds) Applications of Hybrid Metaheuristic Algorithms for Image Processing. Studies in Computational Intelligence, vol 890. Springer, Cham, 28 March 2020. 
 doi: 10.1007/978-3-030-40977-7_21
 </details>
 
