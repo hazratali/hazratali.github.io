@@ -66,6 +66,52 @@ doi: 10.2196/47445 [IF:3.2]
 Doi: 10.3389/frai.2023.1247195 [IF4.0]
 1.	Hazrat Ali*, Farida Mohsen, Zubair Shah*. Improving diagnosis and prognosis of lung cancer using vision transformers: a scoping review. BMC Med Imaging 23, 129, September 2023.
 Doi: 10.1186/s12880-023-01098-z [IF:2.7]
+1. Sulaiman Khan, Hazrat Ali, Zubair Shah, Identifying the Role of Vision Transformer for Skin Cancer-A Scoping Review, Frontiers in Artificial Intelligence, Volume 6, 6:1202990, July 2023. 
+doi: 10.3389/frai.2023.1202990 [IF:4.0]
+1. Rizwan Qureshi, Irfan Khan, Hazrat Ali, et al., "Artificial Intelligence and Biosensors in Healthcare and its Clinical Relevance: A Review," in IEEE Access, Volume 11, June 2023, pp. 61600 – 61620
+doi: 10.1109/ACCESS.2023.3285596
+1. Hazrat Ali, Emma Nyman, Ulf Näslund, Christer Grönlund, Translation of atherosclerotic disease features onto healthy carotid ultrasound images using domain-to-domain translation, Biomedical Signal Processing and Control, Volume 85, March 2023. 
+Doi: 10.1016/j.bspc.2023.104886  [IF:5.076]
+1. Farida Mohsen, Hazrat Ali, Nady El Hajj, Zubair Shah, Artificial intelligence-based methods for fusion of electronic health records and imaging data. Nature Scientific Reports, 12, 17981, October 2022. 
+doi: 10.1038/s41598-022-22514-4 [IF:4.9]
+1. Muhammad Owais, Ali Zahir, Ayaz Ali Shah, Pedro Reviriego, Anees Ullah, Naseem Ullah, Adam Khan and Hazrat Ali, Towards Optimal Softcore Carry-Aware Approximate Multipliers on Xilinx FPGAs, ACM Transactions on Embedded Computing Systems, August 2023, Volume 22, Issue 4, Article No. 76, pp 1–19. 
+Doi: 10.1145/3564243 [IF: 1.8]
+1. Sofia Kanwal, Sohail Asghar, Hazrat Ali. 2022. Feature selection enhancement and feature space visualization for speech-based emotion recognition. PeerJ Computer Science, 8:e1091, November 2022
+Doi: 10.7717/peerj-cs.1091 [IF: 2.41]
+1. Bulbul, Mohammad Farhad, Amin Ullah, Hazrat Ali, and Daijin Kim. 2022. "A Deep Sequence Learning Framework for Action Recognition in Small-Scale Depth Video Dataset", Sensors 22, no. 18: 6841. 
+Doi: 10.3390/s22186841 [IF: 3.847]
+1. Uzair Shah, Md. Rafiul Biswas, Raian Ali, Hazrat Ali, Zubair Shah. Public attitudes on social media toward vaccination before and during the COVID-19 pandemic. Human Vaccines & Immunotherapeutics. Aug 2022, 24:2101835. 
+Doi: 10.1080/21645515.2022.2101835 [IF:3.452]
+1. Hazrat Ali, Johannes Umander, Robin Rohlén, Oliver Röhrle and Christer Grönlund, Modelling intra-muscular contraction dynamics using in silico to in vivo domain translation. BioMed Eng OnLine 21, 46, July 2022.
+Doi: 10.1186/s12938-022-01016-4 [IF:2.819]
+1. Hazrat Ali, Md. Rafiul Biswas, Farida Ali, Uzair Shah, Asma Alamgir, Osama Mousa and Zubair Shah, The role of generative adversarial networks in brain MRI: a scoping review. Insights Imaging 13, 98 (2022). 
+doi: 10.1186/s13244-022-01237-0 [IF: 5.231]
+1. Hazrat Ali, Zubair Shah, Combating COVID-19 Using Generative Adversarial Networks and Artificial Intelligence for Medical Images: Scoping Review, JMIR Med Inform 2022;10(6):e37365 
+doi: 10.2196/37365 [IF:3.23]
+1. Waqar Ahmad, Hazrat Ali*, Zubair Shah, Shoaib Azmat, “A new Generative Adversarial Network for medical image super resolution”, Nature Scientific Reports, 12, 9533, June 2022. 
+doi: 10.1038/s41598-022-13658-4 [IF:4+]
+1. Asif Khan, Alam Zaib, Hazrat Ali, Shahid Khattak, Link-level performance abstraction for mimo receivers using artificial neural network. Telecommunication Systems, 80, 559–572 (2022). 
+Doi: 10.1007/s11235-022-00925-y [IF: 2.314]
+1. Mehreen Mubashar, Hazrat Ali*, Christer Grönlund, Shoaib Azmat. R2U++: a multiscale recurrent residual U-Net with dense skip connections for medical image segmentation. Neural Computing and Applications, June 2022. 
+Doi: 10.1007/s00521-022-07419-7  [IF: 5.6]
+1. Owais Ali, Hazrat Ali*, Syed Ayaz, Aamir Shahzad, Implementation of a Modified U-Net for Medical Image Segmentation on Edge Devices”, IEEE Transactions on Circuits and Systems II: Express Briefs. June 2022. 
+Doi: 10.1109/TCSII.2022.3181132  [IF:3.2]
+1. Md. Rafiul Biswas, Hazrat Ali, Raian Ali, Zubair Shah, “Influences of Social Media Usage on Public Attitudes and Behavior towards COVID-19 Vaccine in the Arab World”, Human Vaccines and Immunotherapeutics, June 2022. [IF:3.452]
+Doi: 10.1080/21645515.2022.2074205
+1. Hazrat Ali, Zubair Shah, Shahid Khattak, Significant Transformation of Engineering Education, IEEE Future Directions - Tech Policy and Ethics, Vol. 7, no. 1, January 2022. 
+39.	Adnan OM. Abuassba, Zhang Dezheng, Hazrat Ali, Fan Zhang, Khan Ali, Classification with ensembles and case study on functional magnetic resonance imaging, Digital Communications and Networks, Volume 8, Issue 1, 2022, Pages 80-86, Feb 2022. 
+Doi: 10.1016/j.dcan.2021.03.004 [IF: 6.7]
+1. Bulbul, M.F., Islam, S., Azme, Z. Hazrat Ali*. Enhancing the performance of 3D auto-correlation gradient features in depth action classification. International Journal of Multimedia Information Retrieval, 16 January 2022. Doi: 10.1007/s13735-021-00226-1 [IF: 3.205]
+1. Yousaf, Umair, Ahmad Khan, Hazrat Ali, Fiaz G. Khan, Zia u. Rehman, Sajid Shah, Farman Ali, Sangheon Pack, and Safdar Ali. 2021. "A Deep Learning Based Approach for Localization and Recognition of Pakistani Vehicle License Plates" Sensors 21, no. 22: 7696. 19 November 2021. doi: 10.3390/s21227696 [SCI] [ISI Indexed] [IF:3.576]  
+1. Ali H, Iqbal K, Mujtaba G, Fayyaz A, Bulbul MF, Karam FW, Zahir A. 2021. Urdu text in natural scene images: a new dataset and preliminary text detection. PeerJ Computer Science 7:e717 doi: 10.7717/peerj-cs.717  [IF: 3.275]
+1. Bulbul, Mohammad F.; Tabussum, Sadiya; Ali, Hazrat; Zheng, Wenli; Lee, Mi Y.; Ullah, Amin, "Exploring 3D Human Action Recognition Using STACOG on Multi-View Depth Motion Maps Sequences" Sensors, vol. 21, no. 11: 3642. 24 May 2021. [IF: 3.576]
+Doi; 10.3390/s21113642
+1. Muhammad Shakaib Iqbal, Hazrat Ali*, Son N. Tran, Talha Iqbal, Coconut Trees Detection and Segmentation in Aerial Imagery using Mask R-CNN, IET Computer Vision, 09 April 2021. [IF: 1.516]
+Doi: 10.1049/cvi2.12028
+1. Farhad Bulbul, Hazrat Ali, Gradient local auto-correlation features for depth human action recognition. SN Applied Sciences 3, 535, April 2021. [ESCI]
+doi: 10.1007/s42452-021-04528-1
+1. Sulaiman Khan, Abdul Hafeez, Hazrat Ali*, Shah Nazir, Anwar Hussain, Ayaz Ullah, Muhammad Imtiaz, "Pioneer dataset and recognition of Handwritten Pashto characters using Convolution Neural Networks, Measurement and Control, Vol. 53, no. 9-10, November 2020, pp. 2041–2054. [IF: 1.492]
+doi: 10.1177/0020294020964826
 
 
 ## Conference proceedings
