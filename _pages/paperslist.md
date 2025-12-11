@@ -117,21 +117,21 @@ doi: 10.1177/0020294020964826  [IF: 1.492]
 doi: 10.1109/ACCESS.2020.3017915
 1.	Hazrat Ali, Ahsan Ullah, Talha Iqbal, Shahid Khattak, “Pioneer dataset and automatic recognition of Urdu handwritten characters using a deep autoencoder and convolutional neural network”, SN Applied Sciences, vol. 2, Article number: 152 (2020), February 2020  
 doi: 10.1007/s42452-019-1914-1
-1.	Talha Iqbal, Hazrat Ali*, “Generative Adversarial Network for Medical Images (MI-GAN)”, Journal of Medical Systems, vol 42, no. 11, article no. 231, October 2018 [ISI Indexed] [IF: 2.098] 
-doi: 10.1007/s10916-018-1072-9
-1.	Farhad Bulbul, Saiful Islam, Yatong Zhou, Hazrat Ali, Improving Human Action Recognition Using Hierarchical Features and Multiple Classifier Ensembles, The Computer Journal, 18 November 2019. [ISI Indexed] [IF: 0.98] 
+1.	Talha Iqbal, Hazrat Ali*, “Generative Adversarial Network for Medical Images (MI-GAN)”, Journal of Medical Systems, vol 42, no. 11, article no. 231, October 2018 
+doi: 10.1007/s10916-018-1072-9 [IF:2.098] 
+1.	Farhad Bulbul, Saiful Islam, Yatong Zhou, Hazrat Ali, Improving Human Action Recognition Using Hierarchical Features and Multiple Classifier Ensembles, The Computer Journal, 18 November 2019. [IF:0.98] 
 Doi: 10.1093/comjnl/bxz123
-1.	Irfan Ahmed, Aftab Khan, Nasir Ahmad, Nasruminallah, and Hazrat Ali, “Speech Signal Recovery Using Block Sparse Bayesian Learning”, Arabian Journal for Science and Engineering, August 2019 [ISI Indexed] [IF= 1.518]
+1.	Irfan Ahmed, Aftab Khan, Nasir Ahmad, Nasruminallah, and Hazrat Ali, “Speech Signal Recovery Using Block Sparse Bayesian Learning”, Arabian Journal for Science and Engineering, August 2019 [IF:1.518]
 doi: 10.1007/s13369-019-04080-6
-1.	Lutf Ur Rahman, F. Khan, Muhammad Afzal Khan, Naseer Ahmad, Hamid Ali Khan, M. Shahzad, Siddique Ali, Hazrat Ali "Modular Rotor Single Phase Field Excited Flux Switching Machine with Non-Overlapped Windings" , Energies, Volume 12 ,Issue 8 ,Page 1576 , 2019 [ISI Indexed] [IF= 2.707]
+1.	Lutf Ur Rahman, F. Khan, Muhammad Afzal Khan, Naseer Ahmad, Hamid Ali Khan, M. Shahzad, Siddique Ali, Hazrat Ali "Modular Rotor Single Phase Field Excited Flux Switching Machine with Non-Overlapped Windings" , Energies, Volume 12 ,Issue 8 ,Page 1576 , 2019 [IF:2.707]
 Doi: 10.3390/en12081576
 1.	Farhad Bulbul, Saiful Islam, Hazrat Ali. "Human Action Recognition Using MHI and SHI Based GLAC Features and Collaborative Representation Classifier", Journal of Intelligent and Fuzzy Systems, vol. 36, no. 4, pp. 3385-3401, 10 April 2019  [IF= 1.426]
 doi: 10.3233/JIFS-181136
-1.	Kashif Sultan, Hazrat Ali, Adeel Ahmad, Zhongshan Zhang."Call Details Record Analysis: A Spatiotemporal Exploration toward Mobile Traffic Classification and Optimization", Information, vol. 10, no. 6, pp. June 2019 [ISI Indexed] 
+1.	Kashif Sultan, Hazrat Ali, Adeel Ahmad, Zhongshan Zhang."Call Details Record Analysis: A Spatiotemporal Exploration toward Mobile Traffic Classification and Optimization", Information, vol. 10, no. 6, pp. June 2019 
 doi: 10.3390/info10060192
 1.	Farhad Bulbul, Saiful Islam, Hazrat Ali, "3D Human Action Analysis and Recognition through GLAC descriptor on 2D Motion and Static Posture Images ", Multimedia Tools and Applications, August 2019, Vol. 78, no. 15, pp 21085–21111  
 https://doi.org/10.1007/s11042-019-7365-2 [IF:2.1]
-1.	Sulaiman Khan, Hazrat Ali, Zahid Ullah, Nasru Minallah, Shahid Maqsood and Abdul Hafeez, “KNN and ANN-based Recognition of Handwritten Pashto Letters using Zoning Features” International Journal of Advanced Computer Science and Applications (IJACSA), 9(10), Oct 2018, pp. 570 – 577. [ISI Indexed]  http://dx.doi.org/10.14569/IJACSA.2018.091070
+1.	Sulaiman Khan, Hazrat Ali, Zahid Ullah, Nasru Minallah, Shahid Maqsood and Abdul Hafeez, “KNN and ANN-based Recognition of Handwritten Pashto Letters using Zoning Features” International Journal of Advanced Computer Science and Applications (IJACSA), 9(10), Oct 2018, pp. 570 – 577. http://dx.doi.org/10.14569/IJACSA.2018.091070
 1.	Kashif Sultan, Hazrat Ali, Zhongshan Zhang, "Call Detail Records Driven Anomaly Detection and Traffic Prediction in Mobile Cellular Networks”, IEEE Access, vol. 6, 25 July 2018, 41728 - 41737. 
 doi: 10.1109/ACCESS.2018.2859756 [IF:3.557]
 1.	Kashif Sultan, Hazrat Ali, Zhongshan Zhang, 2018. "Big Data Perspective and Challenges in Next Generation Networks." Future Internet, 10, no. 7: 56, July 2018 
@@ -140,7 +140,7 @@ doI: /10.3390/fi10070056
 doi: 10.1007/s00521-016-2501-7 [IF=1.492]
 1.	Mudassir Javed, Sohail Hamid, Muhammad Talha, Zubair Ahmad, Fazle Wahab, Hazrat Ali, “Input Based Multiple Destination, Multiple Lines Following Robot with Obstacle Bypassing”, EAI Endorsed Transactions on Scalable Information Systems, SIS, EAI, 2018. 
 doi: 10.4108/eai.13-4-2018.154472
-1.	Adnan Abuassba, Zhang Dezheng, Luo Xiong, Ahmad Shaheryar, Hazrat Ali, "Improving Classification Performance through an Advanced Ensemble Based Heterogeneous Extreme Learning Machines", Journal of Computational Intelligence and Neuroscience, May 2017, Article ID 3405463 . 
+1.	Adnan Abuassba, Zhang Dezheng, Luo Xiong, Ahmad Shaheryar, Hazrat Ali, "Improving Classification Performance through an Advanced Ensemble Based Heterogeneous Extreme Learning Machines", Journal of Computational Intelligence and Neuroscience, May 2017, Article ID 3405463 
 doi: 10.1155/2017/3405463 [IF=0.430]
 1.	Ahmad Shaheryar, Xu-Cheng Yin, Hong-Wei Hao, Hazrat Ali, Khalid Iqbal, “A Denoising based Auto-Associative model for robust sensor monitoring in Nuclear Power Plant ",  Science and Technology of Nuclear Installations, 2016 
 doi: 10.1155/2016/9746948  [IF:0.627]
@@ -169,4 +169,55 @@ Doi: 10.1109/AIBThings58340.2023.10292475
 1. Hazrat Ali, Junaid Qadir, Tanvir Alam, Mowafa Househ, Zubair Shah, Revolutionizing Healthcare with Foundation AI Models, Studies in Health Technology and Informatics, Volume 305: Healthcare Transformation with Informatics and Artificial Intelligence pp. 469 – 470. 
 Doi: 10.3233/SHTI230533
 1. Hazrat Ali, Christer Grönlund, Zubair Shah;  Leveraging GANs for Data Scarcity of COVID-19: Beyond the Hype, 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Vancouver, BC, Canada, 2023, pp. 659-667, doi: 10.1109/CVPRW59228.2023.00073.
-1. Rohail, K. et al. (2023). Understanding Tumor Micro Environment Using Graph Theory. In: Zheng, Y., Keleş, H.Y., Koniusz, P. (eds) Computer Vision – ACCV 2022 Workshops. ACCV 2022. Lecture Notes in Computer Science, vol 13848. Springer, Cham. 
+1. Kinza Rohail, Saba Bashir, Hazrat Ali, Tanvir Alam, Sheheryar Khan, Jia Wu, Pingjun Chen & Rizwan Qureshi (2023). Understanding Tumor Micro Environment Using Graph Theory. In: Zheng, Y., Keleş, H.Y., Koniusz, P. (eds) Computer Vision – ACCV 2022 Workshops. ACCV 2022. Lecture Notes in Computer Science, vol 13848. Springer, Cham. 
+https://doi.org/10.1007/978-3-031-27066-6_7
+1.	Hazrat Ali, Shafaq Murad, Zubair Shah, Spot the fake lungs: Generating Synthetic Medical Images using Neural Diffusion Models, 30th Irish Conference on Artificial Intelligence and Cognitive Science, December 2022, Cork, Ireland. 
+Doi: 10.1007/978-3-031-26438-2_3
+1.	Usama, Rizwan Qureshi, Hazrat Ali et al, Brain Tumor Synthetic Data Generation with Adaptive StyleGANs, 30th Irish Conference on Artificial Intelligence and Cognitive Science, December 2022, Cork, Ireland. 
+doi: 10.1007/978-3-031-26438-2_12 
+1.	Hazrat Ali, “Leveraging machine learning for less developed languages: Progress on Urdu text detection,” 2021 NeurIPS Workshop on Machine Learning for the Developing World, 14 December 2021.  
+1. B. Jiang, H. Ali and C. Grönlund, "Imaging carotid wall mechanical heterogeneity in ultrasound image sequences using Eulerian video magnification," 2020 IEEE 20th International Conference on Bioinformatics and Bioengineering (BIBE), Cincinnati, OH, 2020, pp. 785-788. 
+doi: 10.1109/BIBE50027.2020.00133.
+1. W. Ahmad, B. M. Kazmi and H. Ali, "Human Activity Recognition using Multi-Head CNN followed by LSTM," 2019 15th International Conference on Emerging Technologies (ICET), Peshawar, Pakistan, 2019, pp. 1-6. 
+doi: 10.1109/ICET48972.2019.8994412
+1. Hazrat Ali, Feroz Karim, Junaid Javed Qureshi, Adnan Abuassba, Farhad Bulbul, “Seizure Prediction Using Bidirectional LSTM”. In: Ning H. (eds) Cyberspace Data and Intelligence, and Cyber-Living, Syndrome, and Health. CyberDI 2019, CyberLife 2019. Communications in Computer and Information Science, vol 1137. Springer, Singapore, 2019. 
+doi: 10.1007/978-981-15-1922-2_25
+1. M. F. Bulbul, S. M. Galib and H. Ali, "Human Action Recognition Using GLAC Features on Multi-view Binary Coded Images," 2019 UK/ China Emerging Technologies (UCET), Glasgow, United Kingdom, 2019, pp. 1-4.
+doi: 10.1109/UCET.2019.8881844
+1.	K. Sultan, H. Ali, H. Anwaar, K. P. Nkabiti, A. Ahamd and Z. Zhang, "Understanding and Partitioning Mobile Traffic using Internet Activity Records Data - A Spatiotemporal Approach," 2019 28th Wireless and Optical Communications Conference (WOCC), Beijing, China, May 2019, pp. 1-5.
+doi: 10.1109/WOCC.2019.8770653
+1.	S. Durrani, Muhammad Junaid Khan, Maaz Sarim, Amir Abdullah, Fahad, M. Aftab, Hazrat Ali "Smart Fault Detection and Generator Protection scheme using Arduino and HMI" , International Conference on Electrical, Communication, and Computer Engineering (ICECCE-2019), 24 - 25 July 2019. , 2019
+1.	Muhammad Muneeb Saad, Talha Iqbal, Hazrat Ali, Mohammad Farhad Bulbul, S.Khan, Camel Tanougast "Incident Detection over Unified Threat Management platform on a cloud network" , The 10th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications 18-21 September, 2019, Metz, France , 2019. 
+doi: 10.1109/IDAACS.2019.8924299
+1.	Talha Iqbal, Hazrat Ali, Muhammad Muneeb Saad, S.Khan, Camel Tanougast "Capsule-Net for Urdu Digits Recognition" , The 10th IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications 18-21 September, 2019, Metz, France , 2019
+doi: 10.1109/IDAACS.2019.8924362
+1.	Sulaiman Khan, Hazrat Ali, Zia Ullah, Mohammad Farhad Bulbul, "An Intelligent Monitoring System of Vehicles on Highway Traffic," 2018 12th International Conference on Open Source Systems and Technologies (ICOSST), Lahore, Pakistan, 2018, pp. 71-75.
+doi: 10.1109/ICOSST.2018.8632192
+1.	Shahid Khan, Hazrat Ali, Jamal Nasir, L. Sieler and Camel Tanougast, "A U-shaped Wide band frequency reconfigurable dielectric resonator antenna for 5G applications," 2018 International Symposium on Networks, Computers and Communications (ISNCC), Rome, Italy, 2018, pp. 1-4.
+doi: 10.1109/ISNCC.2018.8530983
+1.	Hazrat Ali, Adnan Ali Awan, Sanaullah Khan, Omer Shafique, Atiq ur Rahman, Shahid Khan, “Supervised Classification for Object Identification in Urban Areas using Satellite Imagery”, 2018 International Conference on Computing, Mathematics and Engineering Technologies – iCoMET 2018, 3 – 4 March 2018, pp. 1 – 4. 
+DOI: 10.1109/ICOMET.2018.8346383
+1.	Kashif Sultan and Hazrat Ali, “Where Big Data meets 5G?”, International Conference on Internet of Things, Data and Cloud Computing (ICC 2017), 22 – 23 March 2017, Cambridge, United Kingdom. Article No. 103, ACM New York, NY, USA ©2017 
+doi: 10.1145/3018896.3025151
+1.	Muhammad Sajjad, Siraj Khan, Muhammad Shoaib, Hazrat Ali, Zahoor Jan, Khan Muhammad, Irfan Mehmood, “Computer Aided System for Leukocytes Classification and Segmentation in Blood Smear Images”, 14th International Conference on Frontiers of Information Technology (FIT 2016), 19 – 21 December, 2016, pp. 99 – 104 
+doi: 10.1109/FIT.2016.026
+1.	Hazrat Ali, Nasir Ahmad, Abdul Hafeez, “Urdu Speech Corpus and Preliminary Results on Speech Recognition”, 17th Engineering Applications of Neural Network Conference (EANN2016), 2 – 5 September, Aberdeen, UK, pp. 317 - 325
+doi: 10.1007/978-3-319-44188-7_24
+1.	Asadullah, Arslan Shaukat, Hazrat Ali, Usman Akram, “Automatic Urdu Speech Recognition using Hidden Markov Model”, 2016 International Conference on Image, Vision and Computing (ICIVC 2016), 3 – 5 August 2016, Portsmouth, UK
+doi: 10.1109/ICIVC.2016.7571287 
+1.	H. Ali, Son N. Tran, A. S. d’Avila Garcez, and T. Weyde,” Convolutional Data for Deep Audio Learning”, Machine Learning and Data Analytics Symposium, Doha, 9-10 March, 2015 (poster) 
+1.	H. Ali, Son N. Tran, A. S. d’Avila Garcez, and T. Weyde, “Convolutional Data: Towards Deep Audio Learning from Big Data”, UCL Workshop on Theory of Big Data, London, 7-9 January, 2015. (poster)
+1.	Khalid Iqbal, X. Yin, H. Hao, S. Asghar, and Hazrat Ali, “Bayesian Network Scores Based Text Localization in Scene Images,” in International Joint Conference on Neural Networks (IJCNN’14), 6-11 July, 2014, Beijing, China, pp - 2218 - 2225. doi: 10.1109/IJCNN.2014.6889731
+1.	Hazrat Ali, Artur d’Avila Garcez, Son N. Tran, Xianwei Zhou, “Hybrid Features Combination for Audio Data Classification (poster)” in Machine Learning and Data Analytics Symposium 3-4 March, 2014, Doha, Qatar. 
+1.	Hazrat Ali, Nasir Ahmad, Xianwei Zhou, and M. Ali, “Linear Discriminant Analysis Based Approach for Automatic Speech Recognition of Urdu Isolated Words,” in International Multitopic Conference (IMTIC’13), Springer CCIS, 18-20 December, 2013, pp – 24-34. doi: 10.1007/978-3-319-10987-9_3
+1.	Hazrat Ali, Xianwei Zhou, and Sun Tie, “Comparison of MFCC and DWT features for automatic speech recognition of Urdu”. In International Conference on Cyberspace Technology (CCT 2013) November 2013, Beijing. Pp. 154 – 158. doi: 10.1049/cp.2013.2112
+1.	Khalid Iqbal, X. Yin, X. Yin, Hazrat Ali, and H. Hao, “Classifier Comparison for MSER-Based Text Classification in Scene Images,” in International Joint Conference on Neural Networks (IJCNN’13), 04-09 August 2013, Texas, USA, August 2013. Doi: 10.1109/IJCNN.2013.6706978
+1.	Hazrat Ali, N. Ahmad, and X. Zhou, “Development of Language Resource and Automatic Speech Recognition System for Pashto (poster),” in TERENA Networking Conference, 2013, Maastricht, The Netherlands.
+1.	Arbab Waseem Abbas; Nasir Ahmad; Hazrat Ali, “Pashto Spoken Digits Database for the Automatic Speech Recognition Research,” in 18th International Conference on Automation and Computing, 2012, 07-08 September 2012, Loughborough, UK, pp. 363–366.
+1.	Irfan Ahmed, Hazrat Ali, Nasir Ahmad, Gulzar Ahmad, “The Development of Isolated Words Corpus of Pashto for the Automatic Speech Recognition Research,” in 2012 International Conference on Robotics and Artificial Intelligence (ICRAI), 22-23 October 2012, pp. 139–143. Doi: 10.1109/ICRAI.2012.6413380
+1.	Irfan Ahmed, Nasir Ahmad, Hazrat Ali, and Gulzar Ahmad, “The Development of Isolated Words Pashto Automatic Speech Recognition System,” in 18th International Conference on Automation and Computing, 07-08 September 2012, Loughborough, UK, pp. 1 – 4. 
+1.	Hazrat Ali, Nasir Ahmad, K. M. Yahya, and Omar Farooq, “A Medium Vocabulary Urdu Isolated Words Balanced Corpus for Automatic Speech Recognition,” in Proceedings of 4th International Conference on Electronic Computer Technology, ICECT, 2012, pp. 473–476.
+1.	Aneesullah, Hazrat Ali, Yasir Ali Khan, M. Aamir, Nazim Ali, K. M. Yahya, “Phase Compensated Differential Based Quadrature Direct Digital Frequency Synthesis,” in 8th International Conference on Emerging Technologies (ICET 2012), 2012, pp. 157–162. Doi: 10.1109/ICET.2012.6375485
+1.	Yasir Ali Khan, Aneesullah, and Hazrat Ali, “Differential based area efficient rom less quadrature direct digital frequency synthesis,” in IEEE 5th International Conference on Emerging Technologies (ICET), 2009, pp. 83 – 88. Doi: 10.1109/ICET.2009.5353195
+
+
