@@ -8,7 +8,8 @@ nav_order: 6
 ---
 
 ## At University of Stirling
-- Computer Vision - Spring 2026 (upcoming) 
+- Deep Learning for Computer Vision and NLP, Postgraduate module - Spring 2026
+- Relational and non-relational Databases, Postgraduate module - Spring 2026
 - Introduction to Machine Learning - Autumn 2025
 - Relational and non-relational Databases, Postgraduate module - Spring 2025
 - Data Strategy, Postgraduate module - Spring 2025

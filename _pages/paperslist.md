@@ -25,6 +25,7 @@ More details on https://medicalai.weebly.com/
 
 ## Book Chapters
 
+1.	Hazrat Ali, Simon T. Powers, Muhammad Bilal, “Bias-in Bias-out: The Pitfalls of Race Bias in Medical AI, in the book AI: The Good, The Bad, and The Game-Changer, (accepted). https://basira-lab.com/ai-the-good-the-bad-and-the-game-changer/
 1. Nasir Khan, Hazrat Ali, Shakaib Iqbal, Arafat Yameen, Christer Grönlund, 2023. Detection of Tuberculosis in Microscopy Images Using Mask Region Convolutional Neural Network. In Computational Intelligence in Image and Video Processing (pp. 175-187). Chapman and Hall/CRC. ISBN: 9781003218111
 doi: 10.1201/9781003218111
 1. SK. Shalauddin Kabir, Mohammad Farhad Bulbul, Fee Faysal Ahmed, Syed Galib, and Hazrat Ali, A Deep Learning Approach for Covid-19 Detection in Chest X-Rays, In Computer Vision and Image Analysis for Industry 4.0 2023 Jun 12 (pp. 120-137). Chapman and Hall/CRC. 
