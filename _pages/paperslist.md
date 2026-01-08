@@ -43,7 +43,7 @@ doi: 10.1007/978-3-030-40977-7_21
 
 ## Journals
 
-1. Ruhul Amin Khalil, Kashif Ahmad, Hazrat Ali, 2026, Redefining Elderly Care with Agentic AI: Challenges and Opportunities, IEEE Open Journal of Computer Society (accepted). Pre-print at: https://arxiv.org/abs/2507.14912
+1. Ruhul Amin Khalil, Kashif Ahmad, Hazrat Ali, 2026, Redefining Elderly Care with Agentic AI: Challenges and Opportunities, IEEE Open Journal of Computer Society, Jan 2026. pp.1-18.  doi: 10.1109/OJCS.2026.3650842 [IF:8.2]
 1. Hannan, Abdul, Zahid Mahmood, Rizwan Qureshi, and Hazrat Ali*. 2025. “Enhancing Diabetic Retinopathy Classification Accuracy through Dual-Attention Mechanism in Deep Learning.” Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization 13 (1), July 2025. doi:10.1080/21681163.2025.2539079. [IF: 1.3]
 1. Atifa Kalsoom, M. A. Iftikhar, Amjad Ali, Zubair Shah, Shidin Balakrishnan and Hazrat Ali. A deep convolutional neural network-based novel class balancing for imbalance data segmentation. Sci Rep 15, 21881 (2025). 
 Doi: 10.1038/s41598-025-04952-y [IF:3.9]
