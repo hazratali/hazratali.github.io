@@ -12,6 +12,9 @@ nav_order: 4
 ## Awards and Recognitions
 
 
+- **[Google Deepmind MenaML winter school travel grant]**  
+  Awarded travel grant by Google DeepMind MenaML winter school, held 24-29 January 2026, KAUST, Saudi Arabia. 
+
 - **[Travel Grant]**  
   Awarded travel grant by UKOMAIN, the UK Multimodal AI Network - an EPSRC funded network, for participation in the [Third Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai25/), held 16-17 September 2025, London, UK. 
 
@@ -21,7 +24,7 @@ nav_order: 4
 - **[DAAD AI-Net Fellowship]**  
   Awarded the DAAD AI-Net Fellowship by DAAD (German Academic Exchange) for the 2021 AI Networking Tour, 13 - 17 September 2021.  
 
-- **[Postdoc Grant]**  
+- **[Kempe Foundation Postdoc Grant]**  
   Awarded the Kempe Foundation Research Grant for Postdoc research at Umea University, Sweden - starting from January 2020.  
 
 - **[Intel Edge AI Scholarship]**  
@@ -30,13 +33,13 @@ nav_order: 4
 - **[Best Poster Award]**  
   Our research poster "Computer-aided diagnosis of Tuberculosis in Medical Images: Machine Learning to the rescue" won first prize for research poster competition at TechFest 2019, organized by the Department of Electrical and Computer Engineering, on 29th October 2019 at CUI Abbottabad Campus.  
 
-- **[Travel Grant]**  
+- **[EEML Travel Grant]**  
   Awarded travel grant by the Eastern European Machine Learning Summer School organized by Politehnica University of Bucharest, held from 1 - 6 July 2019 in Bucharest, Romania.  
 
 - **[Top 10 Research Pitch Award]**  
-  Our research pitch was selected for the Top 10 pitches award in a national-level competition, organized by the University of Queensland, Australia, and the University of Haripur, Pakistan.  
+  Our research pitch was selected for the Top 10 pitches award by HEC Pakistan, in a national-level competition, organized by the University of Queensland, Australia, and the University of Haripur, Pakistan.  
 
-- **[Travel Support Grant]**  
+- **[HLF Germany Travel Grant]**  
   Awarded travel support grant by the Heidelberg Laureate Forum Foundation to attend HLF 2017, at Heidelberg, Germany.  
 
 - **[Ignite NGIRI Grant]**  
@@ -56,7 +59,7 @@ nav_order: 4
 - **[IEEE EMBS Student Travel Award]**  
   Awarded IEEE Travel Award to attend the IEEE EMBS Summer School on Neural Engineering, held in Shanghai Jiaotong University, Shanghai, 13 - 19 July 2015.  
 
-- **[2nd Prize - USTB Excellent International Student Award]**  
+- **[USTB Excellent International Student Award]**  
   Awarded 2nd prize for the session 2013/2014 by the University of Science and Technology Beijing, Beijing, China.  
 
 - **[Travel Grant by Erasmus Mundus StrongTies]**  
