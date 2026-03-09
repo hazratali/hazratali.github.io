@@ -31,13 +31,3 @@ nav_order: 6
 # Research Pitch Award coverage
 ### COMSATS University Youtube channel covers our winning of the research pitch award
 > Watch on [Youtube](https://www.youtube.com/watch?v=gpoy-iSPBCk)
-
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/superresolution.gif" title="Super resolution using GANs" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Super resolution using GANs.
-</div>
