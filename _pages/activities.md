@@ -58,6 +58,7 @@ nav_order: 4
 ### Professional Activities - Conferences  
 - **Area Chair**: 2026 IEEE World Congress on Computational Intelligence and IEEE Joint Conference on Neural Networks, 21-26 June, 2026. [Website](https://attend.ieee.org/wcci-2026/).  
 - **Area Chair**: 2026 IEEE IEEE International Conference on Acoustics, Speech, and Signal Processing, 4-8 May, Barcelona, Spain. [Website](https://2026.ieeeicassp.org/event/about-conference/).  
+- **Lead co-chair**: [2nd Workshop on Foundation AI Models in Biomedical Imaging](https://hazratali.github.io/faibi2026/) at 2026 IEEE International Symposium on Biomedical Imaging, London, United Kingdom. [Website](https://biomedicalimaging.org/2026/)
 - **Session Chair and PC Member**: [Ethics of AI in Healthcare](https://aiih.cc/) at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), in Cambridge, UK.
 - **Lead co-chair**: [Special Session on Multimodal Generative AI in Healthcare](https://aiih.cc/mmgenaihealth/) at the International Conference on Artificial Intelligence in Healthcare (AIiH 2025), in Cambridge, UK.
 - **Lead co-chair**: [Special Session on AI in Surgery](https://hazratali.github.io/aisur/) at the 2025 Conference on Medical Image Understanding and Analysis, MIUA 2025, in Leeds, UK. [Website](https://conferences.leeds.ac.uk/miua/)
