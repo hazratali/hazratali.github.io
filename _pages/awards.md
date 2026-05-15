@@ -8,12 +8,57 @@ nav_order: 4
 ---
 
 
+## Grants
+
+- **[HLF Alumnus participant]**
+Selected as HLF Alumni participant and awarded travel grant for participant in the 2026 Heidelberg Laureate Forum, 12-17 September, 2026, Heidelberg, Germany. 
+
+- **[PI: Dr. Zubair Shah. Dr. Hazrat Ali]**
+NeoVision: Empowering AI for Neonatal Care in Qatar, Awarded by HBKU Innovation Office, 100,000 QAR (27,000 USD approx.) Grant awarded in February 2024.
+
+- **[Lead PI: Dr. Zubair Shah, Co-PI: Dr. Hazrat Ali]**
+Machine Learning Based Genomic Linkage Analysis for Identifying Key Biomarkers Associated with Type-2 Diabetes in Qatari Families, Qatar Biobank, Data transfer grant equivalent to 1,088,640 QAR (0.3 million USD approx.), Data transfer grant awarded by Qatar BioBank, in November 2023.
+
+- **[Lead PI: Dr. Zubair Shah, Co-PI: Dr. Hazrat Ali]**
+Machine Learning-based Models for early predicting Type 2 Diabetes in Qatar Population, Qatar Biobank, Data transfer grant equivalent to 19,053,000 QAR (5 million USD approx.), Data transfer grant by Qatar BioBank, awarded in September 2022.
+
+- **[Principal Investigator: Dr. Hazrat Ali]**
+Deep learning for Urdu hand written text, Awarded by Higher Education Commission Pakistan, Grant awarded worth 0.241 million PKR, Completed 2016-17.
+
+- **[Member]**
+Empowering Qatar's Neonatal Care: Revolutionizing Early Detection of Developmental Complications with Foundation AI Models, Qatar Research, Development, and Innovation Council, 2.7 million QAR (0.73 million USD approx.) grant proposal (Not approved).
+
+- **[Member]**
+GlycoGuardianGPT: Harnessing Foundation AI and Longitudinal Biomedical Data for Precision Diabetes Care in Qatar – A Multimodal Approach to Predict, Stratify, and Manage T2DM, Qatar Research, Development, and Innovation Council, 2.4 million QAR (0.65 million USD approx.) grant proposal (Not approved).
+
+- **[Proposal ]**
+Deep phenotyping of carotid ultrasound images, Nordic Heart Foundation. (Not approved)
 
 ## Awards and Recognitions
+
+- **[UKRI Digital Research Skills Catalyst travel scholarship]**
+Awarded by UKRI Digital Research Skills Catalyst travel scholarship, for AICatalyst2026: AI in the Biosciences Training Conference, 4 September, York, UK
+
+
+- **[UKRI Digital Research Skills Catalyst travel scholarship]**
+Awarded by UKRI Digital Research Skills Catalyst travel scholarship, for AICatalyst2026: AI in the Biosciences Training Conference, 4 September, York, UK
+
+- **[Travel Grant]**  
+Awarded by AIBIO UK, a BBSRC network, UK, for AIBIO UK 3rd Annual Conference, 8-9 June, 2026, Aberdeen, UK.
+
+- **[Travel Grant]**  
+  Awarded travel grant by UKOMAIN, the UK Multimodal AI Network - an EPSRC funded network, for participation in the [Fourth Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai26/), held 11-12 June 2026, London, UK. 
 
 
 - **[Google Deepmind MenaML winter school travel grant]**  
   Awarded travel grant by Google DeepMind MenaML winter school, held 24-29 January 2026, KAUST, Saudi Arabia. 
+
+- **[NeuMat winter school travel grant]**  
+  Awarded participation grant for NeuMat winter school, Churchil College, Cambridge University, Jan 2026, Churchil College, Cambridge University, UK.
+
+
+- **[SICSA L&T Scholar]**
+One of the 12 selected SICSA Learning and Teaching Scholars 2025-26, [by SICSA](https://sicsa.ac.uk/education/learning-teaching-scholars/)
 
 - **[Travel Grant]**  
   Awarded travel grant by UKOMAIN, the UK Multimodal AI Network - an EPSRC funded network, for participation in the [Third Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai25/), held 16-17 September 2025, London, UK. 
