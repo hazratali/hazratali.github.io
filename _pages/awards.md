@@ -10,9 +10,6 @@ nav_order: 4
 
 ## Grants
 
-- **[HLF Alumnus participant]**
-Selected as HLF Alumni participant and awarded travel grant for participant in the 2026 Heidelberg Laureate Forum, 12-17 September, 2026, Heidelberg, Germany. 
-
 - **[PI: Dr. Zubair Shah. Dr. Hazrat Ali]**
 NeoVision: Empowering AI for Neonatal Care in Qatar, Awarded by HBKU Innovation Office, 100,000 QAR (27,000 USD approx.) Grant awarded in February 2024.
 
@@ -36,9 +33,8 @@ Deep phenotyping of carotid ultrasound images, Nordic Heart Foundation. (Not app
 
 ## Awards and Recognitions
 
-- **[UKRI Digital Research Skills Catalyst travel scholarship]**
-Awarded by UKRI Digital Research Skills Catalyst travel scholarship, for AICatalyst2026: AI in the Biosciences Training Conference, 4 September, York, UK
-
+- **[HLF Alumnus participant]**
+Selected as HLF Alumni participant and awarded travel grant for participant in the 2026 Heidelberg Laureate Forum, 12-17 September, 2026, Heidelberg, Germany. 
 
 - **[UKRI Digital Research Skills Catalyst travel scholarship]**
 Awarded by UKRI Digital Research Skills Catalyst travel scholarship, for AICatalyst2026: AI in the Biosciences Training Conference, 4 September, York, UK
