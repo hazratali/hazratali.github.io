@@ -10,5 +10,4 @@ related_posts: false
 
 ---
 
-![SICSA flyer](/assets/img/sicsaseminar.jpg)
 
