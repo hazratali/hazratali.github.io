@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I am charing two sessions at the [2025 AI in Healthcare conference](https://aiih.cc/) in Cambridge, taking place 8-10 September.
+I am charing two sessions at the [2025 AI in Healthcare conference](https://aiih.cc/), taking place 8-10 September in Jesus College, University of Cambridge.
 
 ---
 
@@ -16,3 +16,4 @@ Session 2: **Multimodal Generative AI in Healthcare**
 
 Both the sessions are scheduled on September 9th. 
 Please see conference program for details. 
+
