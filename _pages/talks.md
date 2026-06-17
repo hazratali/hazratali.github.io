@@ -10,7 +10,7 @@ nav_order: 4
 
 
 ## Selected Talks
-
+- **Short Talk**: Weakly Conditioned Diffusion Models for Medical Imaging, talk at the INFORMED-AI Summer School, 15-18 June 2026, Bristol, United Kingdom. 
 - **Invited Talk**: Generative AI for Medical Computer Vision, SICSA invited talk at SICSA seminar series, 30 April 2026. Hosted by SICSA, UK. [More details here](https://sicsa.ac.uk/event/sicsa-seminar-talk-title/).
 - **Seminar Talk**: From Super-Resolution to Disease Transformation: A Bird's-Eye View of Generative AI in Medical Imaging, at CSM Monthly seminar series, 3 October 2025. Hosted by CSM, The University of Stirling, UK.
 - **Short Talk**: From Pixels to Procedures: Structured Surgical Understanding via Multimodal Large Language Models, at the UK Multimodal AI Workshop in London, 17 September 2025. Talk video on [UKOMAIN Youtube](https://www.youtube.com/watch?v=d6iLLSmr71s)
