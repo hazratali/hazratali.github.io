@@ -9,6 +9,8 @@ related_posts: false
 **Nature** July 2026, We are absolutely excited to share that our paper is accepted for publication in Nature Biomedical Engineering (impact factor 26). We will share link to the publishe version here. [Preprint is available at](https://arxiv.org/abs/2512.15808)
 
 **Foundation Models in Biomedical Imaging: Turning Hype into Reality** 
+
+This is an outcome of a wonderful teamwork led by Amgad Muneer and Jia Wu. 
 Couthors include:
 
 Amgad Muneer, Kai Zhang, Ibraheem Hamdi, Rizwan Qureshi, Muhammad Waqas, Shereen Fouad, Hazrat Ali, Syed Muhammad Anwar, Jia Wu
