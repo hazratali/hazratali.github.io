@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Future PhD Students
-date: 2026-06-15 08:34:13
+date: 2026-07-25 15:34:13
 description: 
 tags: phd, scholarships, funding
 categories: phd
@@ -30,7 +30,8 @@ You mayfind the relevant information (admission and fee) on this page https://ww
 Also read the following Linkedin post from another professor, as it has some useful pointers.
 ## Post from Dr. Vasco M. Bareto
 
-```I'm very sorry, but I simply don't have the means to hire you.
+```
+I'm very sorry, but I simply don't have the means to hire you.
 
 Let me give you one piece of advice. Look for European labs with an ERC grant or other prestigious competitive funding (e.g. Wellcome, UKRI, DFG, SNSF, ANR, NWO, FWF, Vetenskapsrådet, Novo Nordisk Foundation, or Horizon Europe collaborative grants). These are the labs that are most likely to have the resources to hire people when they find the right candidate.
 
