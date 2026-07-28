@@ -59,6 +59,8 @@ nav_order: 4
 - **Reviewer**: International Journal of Artificial Intelligence Tools
 
 ### Professional Activities - Conferences  
+- **Area Chair**: 2027 IEEE International Joint Conference on Neural Networks, 14-17 June 2027, Capetown, South Africa. [Website](https://ijcnn.org/2027) 
+- **Co-chair**: Organizing co-chair at 2nd International Conference on the Evolution of Artificial Intelligence (ICEAI 2026), October 2026, UET Mardan. [Website](https://uetmardan.edu.pk/iceai/)
 - **Area Chair**: 2026 IEEE World Congress on Computational Intelligence and IEEE Joint Conference on Neural Networks, 21-26 June, 2026. [Website](https://attend.ieee.org/wcci-2026/).  
 - **Area Chair**: 2026 IEEE IEEE International Conference on Acoustics, Speech, and Signal Processing, 4-8 May, Barcelona, Spain. [Website](https://2026.ieeeicassp.org/event/about-conference/).  
 - **Lead co-chair**: [Special Session on Multimodal Generative AI in Healthcare](https://aiih.cc/special-session-multimodal-generative-ai-in-healthcare/) at the International Conference on Artificial Intelligence in Healthcare (AIiH 2026), in London, UK.
