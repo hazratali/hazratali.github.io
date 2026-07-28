@@ -33,15 +33,10 @@ Also read the following Linkedin post from another professor, as it has some use
 
 > Dear --- 
 > I'm very sorry, but I simply don't have the means to hire you.
-
 > Let me give you one piece of advice. Look for European labs with an ERC grant or other prestigious competitive funding (e.g. Wellcome, UKRI, DFG, SNSF, ANR, NWO, FWF, Vetenskapsrådet, Novo Nordisk Foundation, or Horizon Europe collaborative grants). These are the labs that are most likely to have the resources to hire people when they find the right candidate.
-
 > But don't just send the same generic email to dozens of labs. Pick a topic you genuinely like, study it for a few weeks as if you were preparing for an important exam, then read the lab's most recent publications and write an email that demonstrates real understanding. Include one or two genuine questions or ideas you have about their work. An email like this will immediately distinguish you from most applicants.
-
 > Forget brute-force emailing. It rarely works, and even when it does, it may not lead you to the kind of lab where you will receive the mentoring and scientific environment you deserve.
-
 > And don't be discouraged if your first choice doesn't work out. Build on what you've learned and approach a second lab working on a related topic. Preparing the second application will take much less time because you'll already have a solid background. Keep doing this for a few months. Even if it doesn't work immediately (though I think it will, if you have the talent and commitment), you'll have acquired valuable knowledge that will benefit you throughout your scientific career.
-
 > Good luck!
 
 

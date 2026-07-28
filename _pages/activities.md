@@ -9,6 +9,9 @@ nav_order: 4
 
 ## Editorial Activities
 
+- **Guest Editor**, Frontiers in Bioinformatics, special issue on [AI and Large Language Models for Translational Neuroscience and Beyond](https://www.frontiersin.org/research-topics/82165/ai-and-large-language-models-for-translational-neuroscience-and-beyond).
+- **Guest Editor**, Frontiers in Imaging and Frontiers in Radiology, special issue on [Edge AI for Medical Imaging: Toward Sustainable, Explainable, and Real-Time Diagnostic Systems](https://www.frontiersin.org/research-topics/80114/edge-ai-for-medical-imaging-toward-sustainable-explainable-and-real-time-diagnostic-systems).
+- **Guest Editor**, Frontiers in Imaging, special issue on [The future of medicine: AI applications in medical imaging diagnostics](https://www.frontiersin.org/research-topics/73760/the-future-of-medicine-ai-applications-in-medical-imaging-diagnostics).
 - **Lead Guest Editor**, AI journal, special issue on [Multimodal Artificial Intelligence in Healthcare](https://www.mdpi.com/journal/ai/special_issues/5649465XRZ).
 - **Associate Editor** (since June 2025), Wiley Applied AI Letters
 - **Associate Editor** (since Dec 2024), Nature Scientific Reports
