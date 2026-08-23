@@ -40,6 +40,9 @@ Selected as HLF Alumni participant and awarded travel grant for participant in t
 Awarded by UKRI Digital Research Skills Catalyst travel scholarship, for AICatalyst2026: AI in the Biosciences Training Conference, 4 September, York, UK
 
 - **[Travel Grant]**  
+Awarded by INFORMED-AI, an EPSRC Funded AI Research Hub, for INFORMED-AI Summer School, 15 - 18 June, 2026, Bristol, UK.
+
+- **[Travel Grant]**  
 Awarded by AIBIO UK, a BBSRC network, UK, for AIBIO UK 3rd Annual Conference, 8-9 June, 2026, Aberdeen, UK.
 
 - **[Travel Grant]**  
