@@ -163,7 +163,7 @@ doi:10.1186/2193-1801-3-204
 
 
 ## Conference proceedings
-
+1. Hiba Azeem; Tahir Qasim Syed; Behraj Khan; Hazrat Ali; Adeeqa Aman; Shayan Sirat Maheen Anwar; Aysha Almas; Zainab Samad (2027). From Segmentation to Scoring: Clinically-Aligned ASPECTS Prediction on NCCT Using Slice-Gated Loss. In: Ni, H., Cafolla, D. (eds) Artificial Intelligence in Healthcare. AIiH 2026. Lecture Notes in Computer Science, vol 16876. Springer, Cham. DOI: 10.1007/978-3-032-35390-0_10
 1. Mowmita Parvin Hera, Md. Shahriar Mahmud Kallol, Shohanur Rahman Nirob, Md. Badsha Bulbul, Jubayer Ahmed, M. Zohurul Islam, Hazrat Ali, Mohammad Farhad Bulbul, "Fine-Grained Cat Breed Recognition with Global Context Vision Transformer," 2025 28th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2025, pp. 2271-2275, doi: 10.1109/ICCIT68739.2025.11490185  
 1. Steve Riddle, Mark Zarb, et al.,, CoCoNet: A Collaborative Network for Dissertation Projects, Proceedings of the 2025 Conference on UK and Ireland Computing Education Research, 4-5 September, 2025, Edinburgh, United Kingdom. pp. 1 -- 1. doi: 10.1145/3754508.375452
 1. Jamie Clements and Hazrat Ali, Surgical Scene Understanding using Context Prompting for Multimodal Large Language Models, In 2025 International Conference on AI in Healthcare, 8 – 10 Sep 2025, Cambridge, United Kingdom. DOI: https://zenodo.org/records/17038557  
