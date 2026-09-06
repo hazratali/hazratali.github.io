@@ -10,6 +10,7 @@ nav_order: 4
 
 
 ## Selected Talks
+- **Keynote Talk**: Are we obsessed with AI? , keynote talk at the 2nd International Conference on the Evolution of Artificial Intelligence (ICEAI 2026), 6 October 2026. Hosted by UET Mardan. [Conference link](https://uetmardan.edu.pk/iceai/).
 - **Short Talk**: Weakly Conditioned Diffusion Models for Medical Imaging, talk at the INFORMED-AI Summer School, 15-18 June 2026, Bristol, United Kingdom. 
 - **Invited Talk**: Generative AI for Medical Computer Vision, SICSA invited talk at SICSA seminar series, 30 April 2026. Hosted by SICSA, UK. [More details here](https://sicsa.ac.uk/event/sicsa-seminar-talk-title/).
 - **Seminar Talk**: From Super-Resolution to Disease Transformation: A Bird's-Eye View of Generative AI in Medical Imaging, at CSM Monthly seminar series, 3 October 2025. Hosted by CSM, The University of Stirling, UK.
