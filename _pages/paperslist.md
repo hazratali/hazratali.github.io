@@ -44,7 +44,6 @@ doi: 10.3233/SHTI210911
 doi: 10.1007/978-3-030-40977-7_21
 
 ## Journals
-
 1. Amgad Muneer, Kai Zhang, Ibraheem Hamdi, Rizwan Qureshi, Muhammad Waqas, Shereen Fouad, Hazrat Ali, Syed Muhammad Anwar, Jia Wu, 2026, Foundation Models in Biomedical Imaging: Turning Hype into Reality, Nature Biomedical Engineering, Vol. 10, August 2026, pp. 1557–1575, doi: 10.1038/s41551-026-01762-z. [IF:26]  
 1. Kareem, Muhammad Shoaib, Madiha Amjad, Saba Aslam, Abdur Rasool*, Mutiullah Jamil, and Hazrat Ali*. 2026. "GCE: A Framework for Interpretable Nonlinear Hazard Modeling in Cardiac Sarcoma Survival Using SEER Data" Bioengineering 13, no. 8: 891. 
 Doi: 10.3390/bioengineering13080891 
@@ -163,7 +162,8 @@ doi:10.1186/2193-1801-3-204
 
 
 ## Conference proceedings
-1.	Riddle, Steve, Forshaw, Matthew, Zarb, Mark, Corsar, David, Maier, Patrick, Kolberg, Mario, Ali, Hazrat, Elawady, Mohamed, El Gemayel, Joseph, Balasubramaniam, Dharini, Shimodaira, Hiroshi, Everett, Miles, Scott, Michael and Laird, James ``The Computing Dissertation: Lessons from a UK Practitioner Network'',  In: Proceedings of the 2nd ACM Virtual Global Computing Education Conference, November 12-15, 2026, SIGCSE Virtual, 12-15 November 2026, ACM.
+1.	Mohamed Elawady and Hazrat Ali. 2026. Bridging Learning Outcomes and Module Specifications: GenAI Framework for Curriculum Development in CS Education. In Proceedings of the 2026 United Kingdom and Ireland Computing Education Research (UKICER 2026), Cambridge, September 2026. Association for Computing Machinery, New York, NY, USA, Article 21, 1. https://doi.org/10.1145/3830800.3830829
+1. Riddle, Steve, Forshaw, Matthew, Zarb, Mark, Corsar, David, Maier, Patrick, Kolberg, Mario, Ali, Hazrat, Elawady, Mohamed, El Gemayel, Joseph, Balasubramaniam, Dharini, Shimodaira, Hiroshi, Everett, Miles, Scott, Michael and Laird, James ``The Computing Dissertation: Lessons from a UK Practitioner Network'',  In: Proceedings of the 2nd ACM Virtual Global Computing Education Conference, November 12-15, 2026, SIGCSE Virtual, 12-15 November 2026, ACM.
 1.	Mohamed Elawady and Hazrat Ali, ``Bridging Learning Outcomes and Module Specifications: GenAI Framework for Curriculum Development in CS Education'', The UK and Ireland Computing Education Research, UKICER'26, 3-4 September 2026, Cambridge, United Kingdom.
 1. Hiba Azeem; Tahir Qasim Syed; Behraj Khan; Hazrat Ali; Adeeqa Aman; Shayan Sirat Maheen Anwar; Aysha Almas; Zainab Samad (2027). From Segmentation to Scoring: Clinically-Aligned ASPECTS Prediction on NCCT Using Slice-Gated Loss. In: Ni, H., Cafolla, D. (eds) Artificial Intelligence in Healthcare. AIiH 2026. Lecture Notes in Computer Science, vol 16876. Springer, Cham. DOI: 10.1007/978-3-032-35390-0_10
 1. Mowmita Parvin Hera, Md. Shahriar Mahmud Kallol, Shohanur Rahman Nirob, Md. Badsha Bulbul, Jubayer Ahmed, M. Zohurul Islam, Hazrat Ali, Mohammad Farhad Bulbul, "Fine-Grained Cat Breed Recognition with Global Context Vision Transformer," 2025 28th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 2025, pp. 2271-2275, doi: 10.1109/ICCIT68739.2025.11490185  
