@@ -17,7 +17,7 @@ nav_order: 4
   - [Conference Proceedings](#conference-proceedings)
 
 ## Books
-1. Hazrat Ali, Mubashir Husain Rehmani, (eds) "Large Language Models in Healthcare: Opportunities and Challenges'', to be published by CRC Press, in early 2026. [Book landing page](https://www.routledge.com/Large-Language-Models-in-Healthcare-Opportunities-Applications-and-Challenges/Ali-Rehmani/p/book/9781041083016). More details on [https://hazratali.github.io/llmbook/]
+1. Hazrat Ali, Mubashir Husain Rehmani, (eds) "Large Language Models in Healthcare: Opportunities and Challenges'', CRC Press, September 2026. doi: 10.1201/9781003647652 [Book landing page](https://www.taylorfrancis.com/books/edit/10.1201/9781003647652/large-language-models-healthcare-hazrat-ali-mubashir-husain-rehmani). More details on [https://hazratali.github.io/llmbook/]
 1. Hazrat Ali, Mubashir Husain Rehmani, Zubair Shah, (eds) "Advanced in Deep Generative Modes for Medical Artificial Intelligence”. In Springer Book Series on Studies in Computational Intelligence. 
 Doi: 10.1007/978-3-031-46341-9 
 ISBN: 978-3-031-46340-2
