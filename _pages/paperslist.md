@@ -162,6 +162,7 @@ doi:10.1186/2193-1801-3-204
 
 
 ## Conference proceedings
+1. Muhammad Hassan Nisar, Syeda Umme Umama, Muhammad Imran Shehzad, Hazrat Ali, Shoaib Azmat, Fixing the Background: Segmentation-Guided Feature Refinement for Multiple Object Tracking, Proceedings of the Fourth UK AI Conference 2026, PMLR 348:106-115, 2026.
 1. Riddle, Steve, Forshaw, Matthew, Zarb, Mark, Corsar, David, Maier, Patrick, Kolberg, Mario, Ali, Hazrat, Elawady, Mohamed, El Gemayel, Joseph, Balasubramaniam, Dharini, Shimodaira, Hiroshi, Everett, Miles, Scott, Michael and Laird, James ``The Computing Dissertation: Lessons from a UK Practitioner Network'',  In: Proceedings of the 2nd ACM Virtual Global Computing Education Conference, November 12-15, 2026, SIGCSE Virtual, 12-15 November 2026, ACM.
 1.	Mohamed Elawady and Hazrat Ali, ``Bridging Learning Outcomes and Module Specifications: GenAI Framework for Curriculum Development in CS Education'', The UK and Ireland Computing Education Research, UKICER'26, 3-4 September 2026, Cambridge, United Kingdom. doi: 10.1145/3830800.3830829
 1. Hiba Azeem; Tahir Qasim Syed; Behraj Khan; Hazrat Ali; Adeeqa Aman; Shayan Sirat Maheen Anwar; Aysha Almas; Zainab Samad (2027). From Segmentation to Scoring: Clinically-Aligned ASPECTS Prediction on NCCT Using Slice-Gated Loss. In: Ni, H., Cafolla, D. (eds) Artificial Intelligence in Healthcare. AIiH 2026. Lecture Notes in Computer Science, vol 16876. Springer, Cham. DOI: 10.1007/978-3-032-35390-0_10
