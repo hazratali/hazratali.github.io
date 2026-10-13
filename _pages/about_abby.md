@@ -1,6 +1,6 @@
-## [Abby Stevenson](hazratali.github.io)
+## [Abby Stevenson](www.linkedin.com/in/abby-stevenson14)
 
 Msc Thesis title:
-**Title goes here**
+**Vision Language Models in Cancer Studies: Visual question-answering for Prostate Radiotherapy**
 
 Graduated September 2026.
