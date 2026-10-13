@@ -24,18 +24,11 @@ profiles:
       <p>Philip Oladimeji</p>
       <p>University of Stirling</p>
   - align: left
-    image: prof_asma.png
+    image: prof_asma.jpg
     content: about_asma.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Asma Nadeem</p>
-      <p>University of Stirling</p>
-  - align: left
-    image: prof_philip.png
-    content: about_philip.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Philip Oladimeji</p>
       <p>University of Stirling</p>
   - align: right
     image: prof_ovie.jpeg
