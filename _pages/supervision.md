@@ -10,11 +10,25 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: no-image-50.png
+    image: prof_abby.png
     content: about_abby.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Abby Stevenson</p>
+      <p>University of Stirling</p>
+  - align: left
+    image: prof_philip.png
+    content: about_philip.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Philip Oladimeji</p>
+      <p>University of Stirling</p>
+  - align: left
+    image: prof_asma.png
+    content: about_asma.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Asma Nadeem</p>
       <p>University of Stirling</p>
   - align: left
     image: prof_philip.png
