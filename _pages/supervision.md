@@ -17,6 +17,13 @@ profiles:
       <p>Abby Stevenson</p>
       <p>University of Stirling</p>
   - align: left
+    image: prof_chibike.jpg
+    content: about_chibike.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Chibike Ugbam</p>
+      <p>University of Stirling</p>
+  - align: left
     image: prof_philip.png
     content: about_philip.md
     image_circular: false # crops the image to make it circular
