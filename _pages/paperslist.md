@@ -43,6 +43,7 @@ doi: 10.3233/SHTI210911
 doi: 10.1007/978-3-030-40977-7_21
 
 ## Journals
+1. Syed Azmul Hasan, Mowmita Pervin Hera, Afroza Lona Mim, M. M. Jihad Hossain, Hazrat Ali, Mohammad Farhad Bulbul (2026), Beyond Frame‐Level Accuracy: Analyzing Video‐Level Stability in Transformer‐Based Deepfake Forensics. International Journal of Intelligent Systems, 19 October 2026. doi:10.1155/int/6801006 [IF:4.8]
 1. Amgad Muneer, Kai Zhang, Ibraheem Hamdi, Rizwan Qureshi, Muhammad Waqas, Shereen Fouad, Hazrat Ali, Syed Muhammad Anwar, Jia Wu, 2026, Foundation Models in Biomedical Imaging: Turning Hype into Reality, Nature Biomedical Engineering, Vol. 10, August 2026, pp. 1557–1575, doi: 10.1038/s41551-026-01762-z. [IF:26]  
 1. Kareem, Muhammad Shoaib, Madiha Amjad, Saba Aslam, Abdur Rasool*, Mutiullah Jamil, and Hazrat Ali*. 2026. "GCE: A Framework for Interpretable Nonlinear Hazard Modeling in Cardiac Sarcoma Survival Using SEER Data" Bioengineering 13, no. 8: 891. 
 Doi: 10.3390/bioengineering13080891 
