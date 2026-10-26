@@ -21,7 +21,7 @@ nav_order: 3
 ---
 
 # Generative AI in Healthcare
-## LLMs in Medical Imaging - An early investigation
+## Multimodal LLMs for Surgical Data Science
 
 <!-- <div style="text-align: center;">
   <img src="https://hazratali.github.io/assets/img/sulaimangemini.jpg" alt="LLMs for Medical Image Classification" style="display: block; margin: auto; width: 750px; height: auto;">
