@@ -28,6 +28,24 @@ nav_order: 3
 </div> -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/llmsurgery.png" title="Multimodal LLM for Surgical AI" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Using Multimodal LLMs for Surgical AI
+</div>
+
+Surgical video analysis requires domain-specific expertise and knowledge extraction. Artificial Intelligence (AI) approaches for surgical video analysis rely on extensive computational resources, large annotated datasets, and specialised architectures while offering limited explainability.
+This work explores the potential of Multimodal Large Language Models (MLLMs) for surgical video analysis.
+
+
+## LLMs in Medical Imaging - An early investigation
+
+<!-- <div style="text-align: center;">
+  <img src="https://hazratali.github.io/assets/img/sulaimangemini.jpg" alt="LLMs for Medical Image Classification" style="display: block; margin: auto; width: 750px; height: auto;">
+</div> -->
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/sulaimangemini.jpg" title="LLMs for Medical Image Classification" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
